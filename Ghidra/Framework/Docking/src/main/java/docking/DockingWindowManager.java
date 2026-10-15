@@ -62,6 +62,10 @@ import util.CollectionUtils;
  */
 public class DockingWindowManager implements PropertyChangeListener, PlaceholderInstaller {
 
+	static {
+		ZhTranslator.install();
+	}
+
 	final static String COMPONENT_MENU_NAME = "Window";
 
 	private static DockingActionIf actionUnderMouse;
