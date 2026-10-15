@@ -121,6 +121,7 @@ src/main/resources/images/x.gif||GHIDRA||||END|
 src/main/resources/images/zoom.png||FAMFAMFAM Icons - CC 2.5|||famfamfam silk icon set|END|
 src/main/resources/images/zoom_in.png||FAMFAMFAM Icons - CC 2.5|||famfamfam silk icon set|END|
 src/main/resources/images/zoom_out.png||FAMFAMFAM Icons - CC 2.5|||famfamfam silk icon set|END|
+src/main/resources/zh_CN_dict.tsv||GHIDRA||||END|
 src/main/svg/images/StackFrameElement.svg||GHIDRA||reviewed||END|
 src/main/svg/images/StackFrame_Red.svg||GHIDRA||reviewed||END|
 src/main/svg/images/cause.svg||GHIDRA||reviewed||END|
