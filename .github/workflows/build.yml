@@ -1,0 +1,74 @@
+name: 编译
+
+# 说明：本工作流只负责构建 + 内嵌 MCP + 打包，不做任何同步上游的操作。
+
+on:
+  workflow_dispatch:
+    inputs:
+      release:
+    name: 内嵌 MCP 并发行
+    needs: [Linux, Windows]
+    if: ${{ inputs.release }}
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      MCP_VERSION: "3.0.0"
+      MCP_ASSET: "ghidra_12.1_PUBLIC_20261009_GhidrAssistMCP-3.0.0.zip"
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            介绍.txt
+          sparse-checkout-cone-mode: false
+
+      - name: 下载构建产物
+        uses: actions/download-artifact@v4
+        with:
+          path: artifacts
+
+      - name: 下载 GhidrAssistMCP 扩展
+        run: |
+          curl -fL -o mcp.zip "https://github.com/jtang613/GhidrAssistMCP/releases/download/${MCP_VERSION}/${MCP_ASSET}"
+          mkdir -p mcp && unzip -q mcp.zip -d mcp
+          test -f mcp/GhidrAssistMCP/Module.manifest
+          # 扩展按 12.1 构建，这里标注为 12.1.4 以免扩展管理器报版本不一致
+          sed -i 's/^version=.*/version=12.1.4/' mcp/GhidrAssistMCP/extension.properties
+          rm -rf mcp/GhidrAssistMCP/gradle mcp/GhidrAssistMCP/CLAUDE.md
+
+      - name: 内嵌 MCP 与说明并重新打包
+        run: |
+          mkdir -p out
+          for z in artifacts/*/*.zip; do
+            top=$(unzip -Z1 "$z" | head -1 | cut -d/ -f1)
+            echo "处理 $z (顶层目录: $top)"
+            rm -rf stage && mkdir -p "stage/$top/Ghidra/Extensions"
+            cp -r mcp/GhidrAssistMCP "stage/$top/Ghidra/Extensions/GhidrAssistMCP"
+            cp 介绍.txt "stage/$top/介绍.txt"
+            (cd stage && zip -r -q "../$z" "$top")
+            name=$(basename "$z" | sed 's/_DEV_/_zh_/; s/_PUBLIC_/_zh_/')
+            mv "$z" "out/$name"
+          done
+          ls -l out
+
+      - name: 获取日期
+        run: echo "CURRENT_DATE=$(date +'%Y%m%d')" >> $GITHUB_ENV
+
+      - name: 发布
+        uses: softprops/action-gh-release@v2
+        with:
+          name: Ghidra 12.1.4 汉化版 ${{ env.CURRENT_DATE }}
+          tag_name: ghidra-12.1.4-zh-${{ env.CURRENT_DATE }}-${{ github.run_number }}
+          draft: false
+          make_latest: true
+          body: |
+            基于官方 `NationalSecurityAgency/ghidra` 的 `Ghidra_12.1.4_build` 标签。
+
+            - 界面汉化：运行时词典翻译（`zh_CN_dict.tsv`），`-Dghidra.zh=false` 可关闭
+            - 内置 MCP：GhidrAssistMCP ${{ env.MCP_VERSION }}（原生 MCP 服务器，位于 `Ghidra/Extensions/GhidrAssistMCP`，无需 Python 桥接）
+            - 使用说明见压缩包内 `介绍.txt`
+
+            构建自提交 ${{ github.sha }}。
+          files: |
+            out/*.zip

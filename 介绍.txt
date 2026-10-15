@@ -1,0 +1,72 @@
+================================================================
+ Ghidra 12.1.4 汉化版（内置 MCP）使用说明
+================================================================
+
+【这是什么】
+  - 基础：NSA 官方开源版 Ghidra 12.1.4（上游标签 Ghidra_12.1.4_build），
+    从源码完整编译，没有使用任何第三方二进制。
+  - 汉化：界面文本运行时翻译（词典文件 zh_CN_dict.tsv，打在
+    Framework Docking 的 jar 内）。菜单、工具栏、对话框、标题、标签页、
+    表头、树节点、提示信息都会被翻译；不改业务代码里的配置键，
+    所以不影响已有项目、快捷键和工具配置的兼容性。
+  - MCP：内置 GhidrAssistMCP 3.0.0（jtang613，MIT 协议）。它是一个
+    "原生 MCP 服务器"，直接运行在 Ghidra 进程里，不需要 Python 桥接，
+    不需要额外安装任何东西。位置：Ghidra/Extensions/GhidrAssistMCP
+
+【版本 / 平台】
+  ghidra_12.1.4_zh_<日期>_win_x86_64.zip    Windows 64 位
+  ghidra_12.1.4_zh_<日期>_linux_x86_64.zip  Linux 64 位
+  （两个包内容一致，只是原生组件不同。macOS 未提供。）
+
+【运行要求】
+  - JDK 21（64 位）。Ghidra 12.1 要求 21 及以上。
+  - 内存：建议 8 GB 以上。
+
+【Windows 使用】
+  1. 解压 zip 到不含中文/空格的路径更稳妥（例如 D:\ghidra_12.1.4_zh）。
+  2. 双击 ghidraRun.bat 启动图形界面。
+     如提示找不到 Java，请安装 JDK 21 并把 JAVA_HOME 指向它，
+     或把 JDK 的 bin 目录加入 PATH。
+  3. 无界面批处理：support\analyzeHeadless.bat
+
+【Linux 使用】
+  1. unzip ghidra_12.1.4_zh_*_linux_x86_64.zip
+  2. cd ghidra_12.1.4_zh*/ && chmod +x ghidraRun support/*   （如果权限丢失）
+  3. ./ghidraRun
+  4. 无界面批处理：./support/analyzeHeadless
+
+【常用启动参数】
+  Ghidra 的 JVM 参数写在 support/launch.properties 的 VMARGS 行：
+    VMARGS=-Dghidra.zh=false          关闭汉化，恢复英文界面
+    MAXMEM=8G                         最大堆内存（默认 1/4 物理内存）
+  命令行（analyzeHeadless）常用：
+    analyzeHeadless <项目目录> <项目名> -import <文件> [-overwrite]
+        [-postScript 脚本] [-deleteProject] [-noanalysis] [-readOnly]
+
+【MCP 使用（GUI 模式）】
+  1. 启动 Ghidra，打开项目。
+  2. 打开 CodeBrowser（代码浏览器）。如果窗口菜单里没有 GhidrAssistMCP，
+     在 文件 -> 配置 -> 配置插件 里搜索 GhidrAssistMCP 并勾选。
+  3. 窗口 -> GhidrAssistMCP：设置监听地址 / 端口（默认 127.0.0.1:8080），
+     可按需启用或禁用单个工具（共 100 个工具，默认启用 93 个）。
+  4. MCP 客户端连接地址：
+       Streamable HTTP : http://127.0.0.1:8080/mcp
+       SSE             : http://127.0.0.1:8080/sse
+     例如 Claude Code：
+       claude mcp add --transport http ghidra http://127.0.0.1:8080/mcp
+  5. 默认只监听本机回环地址。需要远程访问请自行评估风险。
+
+【MCP 使用（无界面 / headless）】
+  analyzeHeadless <项目目录> <项目名> -import <二进制文件> \
+      -preScript GAMCPStartServerScript.java "host=127.0.0.1" "port=8080"
+  脚本位于 Ghidra/Extensions/GhidrAssistMCP/ghidra_scripts，
+  如找不到，请在 -scriptPath 里指向该目录。
+
+【已知限制】
+  - 帮助文档（F1 打开的 HTML 帮助）未汉化，仍为英文。
+  - 带动态拼接内容的少量提示（运行时才生成的长句）可能保留部分英文。
+  - 反编译器输出的 C 代码、汇编、符号名、日志里的原始消息保持原样。
+
+【出问题时】
+  先用 -Dghidra.zh=false 启动确认是否汉化引起；是的话请带上界面截图反馈。
+================================================================
