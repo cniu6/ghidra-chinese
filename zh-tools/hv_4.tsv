@@ -1,0 +1,460 @@
+Filter Bookmarks	过滤书签
+Filter Changed	过滤器已更改
+Filter Data Types	过滤数据类型
+Filter Duplicates	过滤重复项
+Filter Executable	过滤可执行文件
+Filter Non-calls	过滤非调用
+Filter Registers	过滤寄存器
+Filter Results	过滤结果
+Filter Thunks	过滤 Thunk
+Filter on Name Only	仅按名称过滤
+Filter on this Executable	按此可执行文件过滤
+Filters	过滤器
+Filters table so only specified types are displayed	过滤表，仅显示指定类型
+Filters the trees to only show function call references	过滤树，仅显示函数调用引用
+Final block cannot fall through	最后一个块不能直通
+Find	查找
+Find Checkouts	查找检出
+Find Checkouts...	查找检出...
+Find Data Types by Name	按名称查找数据类型
+Find Data Types by Size	按大小查找数据类型
+Find Enums by Value	按值查找枚举
+Find Next	查找下一个
+Find Previous	查找上一个
+Find References To	查找引用
+Find References To...	查找引用...
+Find References to Symbol	查找符号的引用
+Find Structures by Offset	按偏移查找结构
+Find Structures by Size	按大小查找结构
+Find Uses of	查找使用
+Find Uses of 	查找使用
+Find Uses of Field...	查找字段的使用...
+Find my checkouts recursively	递归查找我的检出
+Find uses of field in the selected row	在所选行中查找字段的使用
+Finding Actions Without Help	正在查找没有帮助的操作
+Finds and labels Go string structures.	查找并标记 Go 字符串结构。
+Finds known functions by hashing.	通过哈希查找已知函数。
+Finish	完成
+Fit Graph to Window	使图适应窗口
+Fixup	修复
+Flat Dark Theme	扁平深色主题
+Flat Light Theme	扁平浅色主题
+Float	浮点
+Flow Override	流覆盖
+Flush Caches	刷新缓存
+Flush the targets' client-side caches	刷新目标的客户端缓存
+Focus	焦点
+Folder Copy Failed	文件夹复制失败
+Folder Not Found: 	未找到文件夹：
+Follow Link	跟随链接
+Follow a location in this view	在此视图中跟随位置
+Follow location changes	跟随位置变化
+Follows Selected Thread	跟随所选线程
+Font	字体
+Font Editor	字体编辑器
+For Address Tables	针对地址表
+For Direct References	针对直接引用
+For Encoded Strings...	针对编码字符串...
+For Instruction Patterns	针对指令模式
+For Scalars...	针对标量...
+For memory watches, select the range comprising the value	对于内存监视，选择包含该值的范围
+Force Field	强制字段
+Force Full View	强制完整视图
+Force Union Field	强制联合体字段
+Force Union failed	强制联合体失败
+Forcibly Close Transactions	强制关闭事务
+Forcibly commit all remote transactions on the trace	强制提交跟踪上的所有远程事务
+Forward Operator Slice	向前算子切片
+Forward Refs	前向引用
+Forward Slice	向前切片
+Found Differing Architectures	发现架构不同
+Free-Form Selection	自由选择
+Function	函数
+Function Body	函数体
+Function Call Graph	函数调用图
+Function Comparison	函数比较
+Function Comparison (Listing)	函数比较（列表）
+Function Comparison Apply Name	函数比较：应用名称
+Function Comparison Apply Signature	函数比较：应用签名
+Function Comparison Apply Signature And Datatypes	函数比较：应用签名和数据类型
+Function Edit Error	函数编辑错误
+Function Graph Clone	函数图克隆
+Function Graph Options	函数图选项
+Function Graph View	函数图视图
+Function ID	函数 ID
+Function Local Variable	函数局部变量
+Function Name	函数名称
+Function Overlap	函数重叠
+Function Parameter	函数参数
+Function Parameters	函数参数
+Function Reachability Model	函数可达性模型
+Function Reachability Paths Model	函数可达路径模型
+Function Remove	函数移除
+Function Return	函数返回
+Function Signature	函数签名
+Function Signature Display	函数签名显示
+Function Start Patterns	函数起始模式
+Function Tag Delete	函数标签删除
+Function Tag: 	函数标签：
+Function Tags	函数标签
+Function Tags Applied Functions	已应用函数标签的函数
+Function Variable Remove	函数变量移除
+Function overlaps another.	函数与另一函数重叠。
+Function tagged as 	函数已标记为
+Function too small	函数过小
+Functions	函数
+GCC Exception Handlers	GCC 异常处理程序
+GNU Disassembler Error	GNU 反汇编器错误
+GNU Disassembler Not Found	未找到 GNU 反汇编器
+GTK+ Theme	GTK+ 主题
+Gate	门
+Gather Namespaces	收集命名空间
+Gathering Addresses to Classify	正在收集待分类的地址
+Generate Checksum...	生成校验和...
+Generate Help Info File	生成帮助信息文件
+Generate Old Language File	生成旧语言文件
+Generate Simple Language Translator	生成简单语言翻译器
+Generating Checksums	正在生成校验和
+Generating Markup Items	正在生成标记项
+Get All Label History	获取所有标签历史
+Get Differences...	获取差异...
+Get Info	获取信息
+Get Versioned Domain Object	获取版本化域对象
+Ghidra API Help	Ghidra API 帮助
+Ghidra Core	Ghidra 核心
+Ghidra Data Type Archive File	Ghidra 数据类型归档文件
+Ghidra Error	Ghidra 错误
+Ghidra Trace Zip File	Ghidra 跟踪 Zip 文件
+Ghidra User Log	Ghidra 用户日志
+Ghidra Zip File	Ghidra Zip 文件
+GhidraGo Empty URL Error	GhidraGo 空 URL 错误
+GhidraGo Error	GhidraGo 错误
+GhidraGo Error Sending URL	GhidraGo 发送 URL 出错
+GhidraGo Illegal Argument Given	GhidraGo 参数非法
+GhidraGo Taking Longer Than Expected to Listen	GhidraGo 监听耗时超出预期
+GhidraGo Unable to Check File	GhidraGo 无法检查文件
+GhidraGo Unable to Check For Listener	GhidraGo 无法检查监听器
+GhidraGo Unable to Watch for New GhidraURL's	GhidraGo 无法监视新的 GhidraURL
+GhidraGoPlugin Exception	GhidraGoPlugin 异常
+Global	全局
+Go To Address/Label	转到地址/标签
+Go To Call Destination	转到调用目标
+Go To Call Source	转到调用源
+Go To Destination	转到目标
+Go To Edge Source	转到边的源
+Go To Edge Target	转到边的目标
+Go To External Location	转到外部位置
+Go To Failed!	转到失败！
+Go To Function Entry Point	转到函数入口点
+Go To Last Active Program	转到上一个活动程序
+Go To Next Brace	转到下一个大括号
+Go To Next Function	转到下一个函数
+Go To Next Highlighted Area	转到下一个高亮区域
+Go To Next Program	转到下一个程序
+Go To Previous Brace	转到上一个大括号
+Go To Previous Function	转到上一个函数
+Go To Previous Highlighted Area	转到上一个高亮区域
+Go To Previous Program	转到上一个程序
+Go To Program	转到程序
+Go To Program...	转到程序...
+Go To Source	转到源
+Go To Time	转到时间
+Go To in View	在视图中转到
+Go To start of folder/fragment in View	在视图中转到文件夹/片段的起始处
+Go to External Location	转到外部位置
+Go to a specific time, optionally using emulation	转到特定时间，可选择使用模拟
+Go to an external location	转到外部位置
+Go to next color range	转到下一个颜色范围
+Go to next highlighted range	转到下一个高亮范围
+Go to next location	转到下一个位置
+Go to next selected range	转到下一个选定范围
+Go to previous color range	转到上一个颜色范围
+Go to previous highlighted difference.	转到上一个高亮差异。
+Go to previous highlighted range	转到上一个高亮范围
+Go to previous location	转到上一个位置
+Go to previous selected range	转到上一个选定范围
+Go to the next 	转到下一个
+Go to the next highlighted difference	转到下一个高亮差异
+Go to the next highlighted difference.	转到下一个高亮差异。
+Go to the previous 	转到上一个
+Go to the previous highlighted difference	转到上一个高亮差异
+GoTo External Location	转到外部位置
+GoTo reference source location	转到引用源位置
+GoTo selected destination	转到所选目标
+GoTo source location	转到源位置
+Golang RTTI Propagation (deferred)	Golang RTTI 传播（延迟）
+Golang Strings	Golang 字符串
+Golang Symbols	Golang 符号
+Golang closure func arg (deferred)	Golang 闭包函数参数（延迟）
+Golang duffzero/duffcopy fixups (deferred)	Golang duffzero/duffcopy 修复（延迟）
+Golang writeBarrier flag fixup (deferred)	Golang writeBarrier 标志修复（延迟）
+Goto	转到
+Graph	图
+Graph 	图
+Graph '	图 '
+Graph AST	AST 图
+Graph Block Flow	块流图
+Graph Calls Using Default Model	使用默认模型绘制调用图
+Graph Calls using 	使用以下模型绘制调用图：
+Graph Code Flow	代码流图
+Graph Control Flow	控制流图
+Graph Data Flow	数据流图
+Graph Data References	数据引用图
+Graph Data Type	数据类型图
+Graph Error	图错误
+Graph Error.	图错误。
+Graph From Data References	来自数据引用的图
+Graph Function	函数图
+Graph Node Function Calls	图节点函数调用
+Graph Not Rendered - Too many nodes!	图未渲染 - 节点过多！
+Graph Options	图选项
+Graph PCode Control Flow	PCode 控制流图
+Graph PCode Data Flow	PCode 数据流图
+Graph Program	程序图
+Graph To Data References	指向数据引用的图
+Graph To/From Data References	往返数据引用的图
+Graph Type Display Options	图类型显示选项
+Graph Type Options ...	图类型选项...
+Graph to show pcode for function	显示函数 pcode 的图
+Graph type with no defined vertex or edge types	未定义顶点或边类型的图类型
+GraphAST Error	AST 图错误
+Graphing Error	绘图错误
+Group Selected Vertices	分组所选顶点
+Group Selected Vertices - Add to Group	分组所选顶点 - 添加到组
+Group Vertices	分组顶点
+Grow Selection From Sources	从源扩展选择
+Grow Selection To Entire Component	将选择扩展到整个组件
+Grow Selection To Targets	向目标扩展选择
+HCS12 Calling Convention	HCS12 调用约定
+Hello	你好
+Hello Popup	你好弹窗
+Hello Program	你好程序
+Hello World	Hello World
+Hello World Component	Hello World 组件
+Help	帮助
+Help Info	帮助信息
+Help Info File Write Completed	帮助信息文件写入完成
+Help Not Found	未找到帮助
+Help Search Task	帮助搜索任务
+Help Validation Complete	帮助验证完成
+Hex Integer	十六进制整数
+Hex Long	十六进制长整数
+Hex Long Long	十六进制长长整数
+Hex Short	十六进制短整数
+Hexadecimal	十六进制
+Hexagon	六边形
+Hexagon Prolog/Epilog Functions	Hexagon 序言/尾声函数
+Hexagon Thunks	Hexagon Thunk
+Hexagon Unsupported Semantic Check	Hexagon 不支持的语义检查
+Hide Incoming Edges	隐藏传入边
+Hide Incoming Level Edges	隐藏传入层级边
+Hide Outgoing Edges	隐藏传出边
+Hide Outgoing Level Edges	隐藏传出层级边
+Hide Scratch	隐藏暂存区
+Hide Selected	隐藏所选
+Hide Unselected	隐藏未选
+Hide negative snaps, typically used as emulation scratch space	隐藏负快照（通常用作模拟暂存空间）
+Highlight	高亮
+Highlight Backward Operator Slice	高亮向后算子切片
+Highlight Backward Slice	高亮向后切片
+Highlight Defined Use	高亮定义-使用
+Highlight Forward Operator Slice	高亮向前算子切片
+Highlight Forward Slice	高亮向前切片
+Highlight Matches	高亮匹配
+Highlight and Graph	高亮并绘图
+Highlight matches in tool	在工具中高亮匹配
+History Not Found	未找到历史
+Home	主页
+HorizontalRuleAction: 	HorizontalRuleAction：
+I/O Error	I/O 错误
+I/O Error Occurred	发生 I/O 错误
+IO Error	IO 错误
+IO cancelled by user	用户已取消 IO
+IO error exporting pattern xml file	导出模式 XML 文件时发生 IO 错误
+IOException getting canonical path	获取规范路径时发生 IOException
+Icon	图标
+Identify Calling Convention	识别调用约定
+If the tracking spec follows the PC, disassemble automatically.	如果跟踪规范跟随 PC，则自动反汇编。
+Ignore Bytes As Differences	忽略字节差异
+Ignore Selection and Goto Next Difference	忽略所选并转到下一个差异
+Ignore regions and fiew full address spaces	忽略区域并查看完整地址空间
+Illegal State Exception	非法状态异常
+Illegal field access	非法字段访问
+Image	图像
+Image File Error	图像文件错误
+Implied Match	隐含匹配
+Import	导入
+Import Error	导入错误
+Import Failure	导入失败
+Import File Failed	导入文件失败
+Import From File System	从文件系统导入
+Import Ghidra Tools	导入 Ghidra 工具
+Import Icon	导入图标
+Import Missing Module	导入缺失的模块
+Import PDB	导入 PDB
+Import Theme	导入主题
+Import Tool	导入工具
+Import and map the selected module by path from the local file system	从本地文件系统按路径导入并映射所选模块
+Import the missing module from disk	从磁盘导入缺失的模块
+Include Data Members in Filter	过滤时包含数据成员
+Include Operands	包含操作数
+Include Operands (except constants)	包含操作数（常量除外）
+Incoming References	传入引用
+Incompatible Program	不兼容的程序
+Increase Font Size	增大字号
+Increase cell size	增大单元格大小
+Increment All Fonts	增大所有字体
+Increment Font	增大字体
+Index	索引
+Index does not exist.	索引不存在。
+Initial snapshot	初始快照
+Initialize Failure	初始化失败
+Initialize Program Index	初始化程序索引
+Initialize Symbol Storage Directory?	初始化符号存储目录？
+Initialize delta	初始化增量
+Initializing Code Compare	正在初始化代码比较
+Initializing Set Equate Dialog	正在初始化设置等值对话框
+Input Error	输入错误
+Input Spacer Text	输入间隔文本
+Insert Row	插入行
+Insert an undefined byte before the selection	在所选内容前插入一个未定义字节
+Inspect error	检查错误
+Install Extensions	安装扩展
+Installed Processors	已安装的处理器
+Instruction Info	指令信息
+Instruction References From	指令引用自
+Instruction Search Input Error	指令搜索输入错误
+Instruction decode failed (	指令解码失败（
+Instructions	指令
+Instructions From	指令来自
+Interpreter Interrupt	解释器中断
+Interrupt	中断
+Interrupt Emulator	中断模拟器
+Interrupt Interpreter	中断解释器
+Interrupt the interpreter	中断解释器
+Interrupt the target	中断目标
+Interrupt, i.e., suspend, the integrated emulator	中断（即暂停）集成模拟器
+Interrupt, i.e., suspend, the target	中断（即暂停）目标
+Invalid	无效
+Invalid 	无效
+Invalid Analysis Option	无效的分析选项
+Invalid Archive Name	无效的归档名称
+Invalid BuiltIn Data Type	无效的内置数据类型
+Invalid Data Type	无效的数据类型
+Invalid Datatype	无效的数据类型
+Invalid Destination	无效的目标
+Invalid Domain Object Name	无效的域对象名称
+Invalid Drop Location	无效的放置位置
+Invalid Entry Error	无效条目错误
+Invalid Extension	无效的扩展
+Invalid Flow-Override Selection	无效的流覆盖选择
+Invalid Function Signature	无效的函数签名
+Invalid Icon File	无效的图标文件
+Invalid Input	无效输入
+Invalid Link	无效链接
+Invalid Max Starts	无效的最大起始数
+Invalid Minimum Size	无效的最小大小
+Invalid Name	无效名称
+Invalid Name Specified	指定的名称无效
+Invalid Namespace	无效的命名空间
+Invalid Option Value	无效的选项值
+Invalid PDB Age value	无效的 PDB 年龄值
+Invalid PDB Path / GUID / UID value	无效的 PDB 路径 / GUID / UID 值
+Invalid Project	无效的项目
+Invalid Project File	无效的项目文件
+Invalid Project Name	无效的项目名称
+Invalid Register	无效的寄存器
+Invalid STACK block	无效的 STACK 块
+Invalid Selection	无效的选择
+Invalid Stack Offset	无效的栈偏移
+Invalid Theme Name	无效的主题名称
+Invalid URL	无效的 URL
+Invalid URL: 	无效的 URL：
+Invalid data type error for 	数据类型无效：
+Invalid data type error.	数据类型无效。
+Invalid message type given in 	给定了无效的消息类型：
+Invalid name error.	名称无效。
+Invalid name specified	指定的名称无效
+Invalid name: 	无效名称：
+Invalid path: 	无效路径：
+Invalid register: 	无效寄存器：
+Invalid symbol text: 	无效的符号文本：
+Invalidate Emulator Cache	使模拟器缓存失效
+Invert Search Logic	反转搜索逻辑
+Invert Selection	反选
+Is Enum-Based	基于枚举
+Issue commands to the debugger's interpreter	向调试器的解释器发出命令
+Jump To XRef	跳转到交叉引用
+Jump to Next Dockable Provider	跳转到下一个可停靠提供者
+Jump to Previous Dockable Provider	跳转到上一个可停靠提供者
+Jump to XRef	跳转到交叉引用
+Jython plugin execution thread	Jython 插件执行线程
+Jython plugin input thread (generation 	Jython 插件输入线程（代
+Jython script execution thread	Jython 脚本执行线程
+Jython script failed. 	Jython 脚本失败。
+Kill	终止
+Kill the target	终止目标
+Kill, i.e., forcibly terminate, the target	终止（即强制结束）目标
+Label	标签
+Label Display	标签显示
+Label History Search	标签历史搜索
+Label History...	标签历史...
+Labels	标签
+Language	语言
+Language Error	语言错误
+Language not found for '	找不到语言：'
+Language not found for processor: 	找不到处理器对应的语言：
+Language not found.	找不到语言。
+Language version (V	语言版本 (V
+Language/Compiler Spec not found for '	找不到语言/编译器规范：'
+Last Folder Visited	上次访问的文件夹
+Last Used: 	上次使用：
+Launch	启动
+Launch Debug Search Window	启动调试搜索窗口
+Launch Failed	启动失败
+Launch a target	启动目标
+Length Override Error	长度覆盖错误
+Limit to Current Snap	限制为当前快照
+Link Error	链接错误
+Linked Content Error	链接内容错误
+List Mounted Filesystems	列出已挂载的文件系统
+Listing	列表
+Listing Code Comparison Options	列表代码比较选项
+Listing Field Exception	列表字段异常
+Listing Group	列表组
+Listing Merge Tool	列表合并工具
+Listing View	列表视图
+Load	加载
+Load Executable	加载可执行文件
+Load Filter	加载过滤器
+Load Kernel Task Error	加载内核任务错误
+Load PDB	加载 PDB
+Load PDB File	加载 PDB 文件
+Load PDB File...	加载 PDB 文件...
+Load PDB Warning	加载 PDB 警告
+Load PDB for 	加载 PDB：
+Load SARIF file	加载 SARIF 文件
+Load a trace in a local or selected connection	在本地或所选连接中加载跟踪
+Load column data	加载列数据
+Load iOS Kernel	加载 iOS 内核
+Load iOS Kernel?	加载 iOS 内核？
+Load selected instructions from listing	从列表加载所选指令
+Loading Instructions	正在加载指令
+Loading iOS kernel...	正在加载 iOS 内核...
+Loading language '	正在加载语言 '
+Local	本地
+Local Menu	本地菜单
+Locates and applies PEF debug information.	定位并应用 PEF 调试信息。
+Locates known functions by name, that generally 	按名称定位已知函数，这些函数通常
+Location	位置
+Location Details...	位置详情...
+Location References Provider	位置引用提供者
+Lock Failure	锁定失败
+Lock/Unlock Synchronized Scrolling of Dual View	锁定/解锁双视图同步滚动
+Loose Changes?	零散更改？
+Lose Changes in Archive?	丢弃归档中的更改？
+Lose Local Changes?	丢弃本地更改？
+Lost Connection to Server	与服务器的连接已断开
+Lower Left	左下
+Lower Right	右下
+MD5 does not equal	MD5 不等于

@@ -71,6 +71,33 @@ FIX=[ # (english regex, wrong zh, right zh)
  (r'field','领域','字段'),
  (r'fields','田','字段'),
  (r'bookmark','标签页','书签'),
+ (r'demangl','破坏者','名称还原器'),
+ (r'demangl','解码器','名称还原器'),
+ (r'analyzers?','分析仪','分析器'),
+ (r'bundle','捆绑包','包'),
+ (r'bundle','捆绑','包'),
+ (r'overlay','叠加','覆盖层'),
+ (r'overlay','覆盖层层','覆盖层'),
+ (r'check ?outs?','结帐','检出'),
+ (r'check ?outs?','结账','检出'),
+ (r'repositor','资源库','存储库'),
+ (r'repositor','仓库','存储库'),
+ (r'data ?type','数据型','数据类型'),
+ (r'trace','痕迹','跟踪'),
+ (r'trace','追踪','跟踪'),
+ (r'breakpoint','中断点','断点'),
+ (r'watch','手表','监视'),
+ (r'thread','螺纹','线程'),
+ (r'decompiler','反编译程序','反编译器'),
+ (r'assembl','组装','汇编'),
+ (r'endian','字节序','字节序'),
+ (r'go to','去','转到'),
+ (r'goto','转到','转到'),
+ (r'pointer','指示器','指针'),
+ (r'calling convention','呼叫约定','调用约定'),
+ (r'call','呼叫','调用'),
+ (r'fragment','碎片','片段'),
+ (r'module','模块','模块'),
 ]
 def fix(en,zh):
     low=en.lower()
@@ -86,7 +113,18 @@ def units_of(s):
     else: segs=[s]
     return segs
 out={}
+hv={}
+hvraw={}
+for f in sorted(glob.glob('C:/zhwork/hv_[0-9].tsv')):
+    for l in open(f,encoding='utf-8'):
+        l=l.rstrip(chr(10))
+        if chr(9) not in l: continue
+        k,v=l.split(chr(9),1)
+        if not k.strip() or not v.strip(): continue
+        hvraw[k]=v
+        hv[k.strip()]=v.strip()
 def lookup(core):
+    if core in hv: return hv[core]
     if core in gl: return gl[core]
     v=mt.get(core)
     if v is None: return None
@@ -108,6 +146,9 @@ for s in src:
         if '\n' not in seg and seg!=seg.strip() and seg.strip() in out:
             m=re.match(r'^(\s*)(.*?)(\s*)$',seg,re.S)
             out[seg]=m.group(1)+out[seg.strip()]+m.group(3)
+for k,v in hv.items(): out[k]=v
+for k,v in hvraw.items():
+    if k!=k.strip(): out[k]=v
 # glossary entries not covered by source scan (full-text overrides)
 for k,v in gl.items():
     if v!=k and HAS.search(k): out[k]=v

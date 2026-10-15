@@ -1,0 +1,440 @@
+Disable	禁用
+Disable All Breakpoints	禁用所有断点
+Disable Breakpoint	禁用断点
+Disable Category	禁用类别
+Disable Field	禁用字段
+Disable Type Casts	禁用类型转换
+Disable Type Casts Display	禁用类型转换显示
+Disable all breakpoints in the table	禁用表中的所有断点
+Disable the selected breakpoints	禁用所选断点
+Disable this breakpoint	禁用此断点
+Disassemble	反汇编
+Disassemble 	反汇编
+Disassemble (Restricted)	反汇编（受限）
+Disassemble (Static)	反汇编（静态）
+Disassemble - 	反汇编 -
+Disassemble - MIPS	反汇编 - MIPS
+Disassemble Entry Points	反汇编入口点
+Disassemble Restricted	受限反汇编
+Disassemble Static	静态反汇编
+Disassemble as	反汇编为
+Disassemble as 	反汇编为
+Disassemble at the selected rows	在所选行处反汇编
+Disassemble using an alternative language	使用其他语言反汇编
+Disassembled View	反汇编视图
+Disassembles entry points in newly added memory.	反汇编新增内存中的入口点。
+Disassembly	反汇编
+Disassociate Archive	取消归档关联
+Disassociate Failed	取消关联失败
+Disassociate From Archive	取消与归档的关联
+Discard Changes?	放弃更改？
+Disconnect	断开连接
+Disconnect All	全部断开
+Disconnect idle BSim Database connection	断开空闲的 BSim 数据库连接
+Discovers Objective-C type metadata records.	发现 Objective-C 类型元数据记录。
+Discovers Swift type metadata records.	发现 Swift 类型元数据记录。
+Displacement would result in an illegal address value.	位移会导致非法的地址值。
+Display 	显示
+Display Data Graph	显示数据图
+Display Data Type as Graph	将数据类型显示为图
+Display Popup Windows	显示弹出窗口
+Display Satellite	显示卫星视图
+Display Satellite View	显示卫星视图
+Display Selected as New Graph	将所选内容显示为新图
+Display Symbol References	显示符号引用
+Display a dialog indicating details, such as references, for the 	显示对话框，指出详细信息（如引用）：
+Display as Graph	显示为图
+Displays an AST graph for the current function	显示当前函数的 AST 图
+Displays this vertex in use the full Listing format	以完整列表格式显示此顶点
+Do Not Apply	不应用
+Dock Satellite View	停靠卫星视图
+Docked Satellite Position	停靠的卫星视图位置
+Domain Folder Changes Display	域文件夹更改显示
+Domain Object Event Display	域对象事件显示
+Domain object is locked by 	域对象被锁定，锁定者：
+Dominance	支配
+Don't Care	不关心
+Don't Know	未知
+Double	双精度
+Drop Failed	放置失败
+Dual Listing Go To Next Area Marker	双列表：转到下一区域标记
+Dual Listing Go To Previous Area Marker	双列表：转到上一区域标记
+Dual Listing Toggle Header	双列表：切换标题
+Dual Listing Toggle Mouse Hover Popups	双列表：切换鼠标悬停弹窗
+Dummy	占位
+Duplicate Archive ID Error	归档 ID 重复错误
+Duplicate Archive Name Error	归档名称重复错误
+Duplicate Entry Name(s)	条目名称重复
+Duplicate Extension Folder	扩展文件夹重复
+Duplicate Extensions Found	发现重复的扩展
+Duplicate External Name	外部名称重复
+Duplicate Name	名称重复
+Duplicate Sleigh Language ID	Sleigh 语言 ID 重复
+Duplicate Tag Names	标签名称重复
+Duplicate multiple of the selected component	复制所选组件多份
+Duplicate the selected component	复制所选组件
+Dynamic Update	动态更新
+ELF Scalar Operand References	ELF 标量操作数引用
+EOL Comment	行尾注释
+Eclipse Launcher Task	Eclipse 启动任务
+Eclipse Service Error	Eclipse 服务错误
+Eclipse dropins directory does not exist.	Eclipse dropins 目录不存在。
+Edge Source	边的源
+Edge Target	边的目标
+Edit	编辑
+Edit 	编辑
+Edit Archive Paths	编辑归档路径
+Edit Archive Paths...	编辑归档路径...
+Edit Bitfield	编辑位域
+Edit Bytes	编辑字节
+Edit Code Block Fields	编辑代码块字段
+Edit Code Layout	编辑代码布局
+Edit Data Type	编辑数据类型
+Edit Data Type Archive Paths	编辑数据类型归档路径
+Edit Destination Address	编辑目标地址
+Edit Enum	编辑枚举
+Edit External Location	编辑外部位置
+Edit External Location Error	编辑外部位置错误
+Edit Failed	编辑失败
+Edit Field	编辑字段
+Edit Field Dialog	编辑字段对话框
+Edit Field Name: 	编辑字段名：
+Edit Field...	编辑字段...
+Edit Fields	编辑字段
+Edit Function	编辑函数
+Edit Function Purge	编辑函数栈清理量
+Edit Function Signature	编辑函数签名
+Edit Function Tags	编辑函数标签
+Edit Function...	编辑函数...
+Edit Label	编辑标签
+Edit Label at 	编辑标签于
+Edit Library Paths	编辑库路径
+Edit Markup Destination Address	编辑标记目标地址
+Edit Match Tags	编辑匹配标签
+Edit Options	编辑选项
+Edit Plugin Path	编辑插件路径
+Edit Project Access List	编辑项目访问列表
+Edit Project Access List...	编辑项目访问列表...
+Edit Reference	编辑引用
+Edit Register	编辑寄存器
+Edit Register Value Range	编辑寄存器值范围
+Edit Signature Override	编辑签名覆盖
+Edit Stack Frame	编辑栈帧
+Edit Structure	编辑结构
+Edit Tags	编辑标签
+Edit Transform	编辑变换
+Edit Variable Comment	编辑变量注释
+Edit Vertex Label	编辑顶点标签
+Edit an existing bitfield	编辑现有位域
+Edit in Progress	正在编辑
+Edit reference	编辑引用
+Edit the Listing fields	编辑列表字段
+Edit the selected component	编辑所选组件
+Edit: 	编辑：
+Ellipse	椭圆
+Embedded Media	嵌入媒体
+Empty Graph Type	空图类型
+Empty Layout	空布局
+Empty Training Set	空训练集
+Empty file	空文件
+Emulate	模拟
+Emulate 	模拟
+Emulate Program in new Trace	在新跟踪中模拟程序
+Emulate Trace Skip P-code Forward	模拟跟踪：向前跳过 p-code
+Emulate Trace Skip Tick Forward	模拟跟踪：向前跳过时钟周期
+Emulate Trace Tick Backward	模拟跟踪：向后一个时钟周期
+Emulate Trace Tick Forward	模拟跟踪：向前一个时钟周期
+Emulate Trace p-code Backward	模拟跟踪：向后一个 p-code
+Emulate Trace p-code Forward	模拟跟踪：向前一个 p-code
+Emulate the current program in a new trace starting at the cursor	从光标处开始，在新跟踪中模拟当前程序
+Emulate the recording backward one tick	将记录向后模拟一个时钟周期
+Emulate the recording forward by skipping one instruction	将记录向前模拟并跳过一条指令
+Emulate the recording forward by skipping one p-code op	将记录向前模拟并跳过一个 p-code 操作
+Emulate the recording forward one instruction	将记录向前模拟一条指令
+Emulate the recording forward one p-code tick	将记录向前模拟一个 p-code 周期
+Emulated	已模拟
+Enable	启用
+Enable All Breakpoints	启用所有断点
+Enable Breakpoint	启用断点
+Enable Category	启用类别
+Enable Edits	启用编辑
+Enable Field	启用字段
+Enable all breakpoints in the table	启用表中的所有断点
+Enable editing of recorded or live values	允许编辑已记录或实时的值
+Enable or disable an option	启用或禁用选项
+Enable this breakpoint	启用此断点
+Enable/Disable Byteviewer Editing	启用/禁用字节查看器编辑
+Enabled	已启用
+Enabled the selected breakpoints	已启用所选断点
+Encoded Strings Table	编码字符串表
+Encountered Errors Copying/Moving	复制/移动时遇到错误
+Encrypted Binary	加密的二进制文件
+Enter Block Label	输入块标签
+Enter Group Vertex Text	输入组顶点文本
+Enter Label:	输入标签：
+Enter Name:	输入名称：
+Enter URL	输入 URL
+Enter bytes manually	手动输入字节
+Enum Data Type Removed	枚举数据类型已移除
+Enum Data Type Replaced	枚举数据类型已替换
+Enum From Selection	从所选内容创建枚举
+Enum is full	枚举已满
+Equate	等值
+Equate Conflicts	等值冲突
+Error	错误
+Error Activating Bundles	激活包时出错
+Error Adding Tool	添加工具时出错
+Error Adding Utility Plugins	添加实用插件时出错
+Error Adding View	添加视图时出错
+Error Applying Diff	应用差异时出错
+Error Applying Model	应用模型时出错
+Error Creating Extension Point	创建扩展点时出错
+Error Creating Graph	创建图时出错
+Error Creating Input Stream	创建输入流时出错
+Error Creating New Program	创建新程序时出错
+Error Deleting File	删除文件时出错
+Error Deleting Project	删除项目时出错
+Error During C-Parse	C 解析时出错
+Error During Merge Process	合并过程中出错
+Error Exporting Tool	导出工具时出错
+Error Extracting File	提取文件时出错
+Error Finding Fragments	查找片段时出错
+Error Getting Checkout Info	获取检出信息时出错
+Error Getting Program	获取程序时出错
+Error Getting Project Data	获取项目数据时出错
+Error Getting Symbol File	获取符号文件时出错
+Error Getting Versioned Program	获取版本化程序时出错
+Error Importing File	导入文件时出错
+Error Importing Theme File	导入主题文件时出错
+Error Installing Extension	安装扩展时出错
+Error Instantiating Extension Point	实例化扩展点时出错
+Error Loading Browser	加载浏览器时出错
+Error Loading Key Bindings	加载快捷键时出错
+Error Loading PDB	加载 PDB 时出错
+Error Loading Plugin	加载插件时出错
+Error Loading Plugin(s) 	加载插件时出错
+Error Loading Profile	加载配置文件时出错
+Error Making String(s)	创建字符串时出错
+Error Merging Fragments	合并片段时出错
+Error Moving Child	移动子项时出错
+Error Moving Folder	移动文件夹时出错
+Error Moving Fragments	移动片段时出错
+Error Opening 	打开时出错：
+Error Opening File	打开文件时出错
+Error Opening Program	打开程序时出错
+Error Opening Project	打开项目时出错
+Error Opening Trace	打开跟踪时出错
+Error Opening as Read-Only	以只读方式打开时出错
+Error Overwriting 	覆盖时出错：
+Error Parsing Crypto Keys File	解析加密密钥文件时出错
+Error Performing BSim Overview	执行 BSim 概览时出错
+Error Performing BSim Search	执行 BSim 搜索时出错
+Error Processing Pattern File	处理模式文件时出错
+Error Reading BSim Server File	读取 BSim 服务器文件时出错
+Error Reading Resource	读取资源时出错
+Error Reading Tool	读取工具时出错
+Error Refreshing Bundles	刷新包时出错
+Error Renaming Symbol	重命名符号时出错
+Error Restoring Front-end Plugins	恢复前端插件时出错
+Error Restoring Plugins	恢复插件时出错
+Error Restoring Project	恢复项目时出错
+Error Saving	保存时出错
+Error Saving Data	保存数据时出错
+Error Saving File	保存文件时出错
+Error Saving File As...	另存文件时出错...
+Error Saving Image File	保存图像文件时出错
+Error Saving Key Bindings	保存快捷键时出错
+Error Saving Plugin Paths	保存插件路径时出错
+Error Searching Memory	搜索内存时出错
+Error Setting Analysis Options	设置分析选项时出错
+Error That Can't Happen	不应发生的错误
+Error Writing Profile	写入配置文件时出错
+Error compiling injected Sleigh source	编译注入的 Sleigh 源码时出错
+Error creating new FidDb file	创建新 FidDb 文件时出错
+Error deleting data type archive.	删除数据类型归档时出错。
+Error during drop	放置时出错
+Error editing memory	编辑内存时出错
+Error emulating	模拟时出错
+Error exporting Data Types: 	导出数据类型时出错：
+Error exporting tool	导出工具时出错
+Error extracting file	提取文件时出错
+Error importing file	导入文件时出错
+Error in Display Listener	显示监听器出错
+Error in Domain Object listener	域对象监听器出错
+Error in Drop Operation	放置操作出错
+Error in Listener	监听器出错
+Error in Progress icon	进度图标出错
+Error in xml in saved property	已保存属性中的 XML 出错
+Error loading default tool: 	加载默认工具时出错：
+Error loading script	加载脚本时出错
+Error merging folder with its parent	将文件夹与其父级合并时出错
+Error on Check Out	检出时出错
+Error opening 	打开时出错：
+Error parsing string representation at position 	解析字符串表示时出错，位置：
+Error populating Built In Data Types	填充内置数据类型时出错
+Error populating dialog	填充对话框时出错
+Error processing 	处理时出错：
+Error processing group removed event	处理组移除事件时出错
+Error reading Bsim Server File	读取 BSim 服务器文件时出错
+Error reading front end configuration	读取前端配置时出错
+Error reading syscall map file	读取系统调用映射文件时出错
+Error releasing synchronization to old program	释放与旧程序的同步时出错
+Error reloading script: 	重新加载脚本时出错：
+Error restoring front-end plugins	恢复前端插件时出错
+Error running asynchronous background task	运行异步后台任务时出错
+Error running script: 	运行脚本时出错：
+Error saving as script	另存为脚本时出错
+Error saving front end configuration	保存前端配置时出错
+Error saving project	保存项目时出错
+Error saving read-only installable database	保存只读可安装数据库时出错
+Error saving script	保存脚本时出错
+Error searching	搜索时出错
+Error setting cursor location.	设置光标位置时出错。
+Error setting highlight	设置高亮时出错
+Error setting read-only state for 	设置只读状态时出错：
+Error setting selection	设置选择时出错
+Error writing JavaHelp info	写入 JavaHelp 信息时出错
+Error: 	错误：
+Evaluate Selected Patterns	评估所选模式
+Evaluate Selected Sequences	评估所选序列
+Evaluation error	评估错误
+Evalute Selected Patterns	评估所选模式
+Event name not in table: 	事件名称不在表中：
+Example Dialog	示例对话框
+Example of Popup	弹出示例
+Examples	示例
+Exceeded limit of 	超出限制：
+Exception	异常
+Exception Locating Manual	查找手册时发生异常
+Exception occurred while rendering '	渲染时发生异常：'
+Exception reading 	读取时发生异常：
+Exclude Operands	排除操作数
+Exclusive Access Required	需要独占访问
+Exclusive Checkout Required	需要独占检出
+Exclusive checkout failed for: 	独占检出失败：
+ExecCategoryColumn: 	ExecCategoryColumn：
+Executable Sum	可执行文件总和
+Executable name does not equal	可执行文件名称不等于
+Executable name equals	可执行文件名称等于
+ExecutableCategoryMatchColumn: 	ExecutableCategoryMatchColumn：
+Execute Source-Sink Query	执行源-汇查询
+Execution hit breakpoint	执行命中断点
+Execution suspended by user	用户已暂停执行
+Exit	退出
+Exit Ghidra	退出 Ghidra
+Expand	展开
+Expand All	全部展开
+Expand All Data	展开所有数据
+Expand All Data In Selection	展开所选内容中的所有数据
+Expand All folders/fragments	展开所有文件夹/片段
+Expand Block Down	向下扩展块
+Expand Block Up	向上扩展块
+Expand Fully	完全展开
+Expand Nodes to Depth Limit	将节点展开到深度限制
+Expand Selected	展开所选
+Expand Selected Vertices	展开所选顶点
+Expand block by setting new end address	通过设置新的结束地址扩展块
+Expand block by setting new start address	通过设置新的起始地址扩展块
+Export	导出
+Export 	导出
+Export All	全部导出
+Export All...	全部导出...
+Export C Header...	导出 C 头文件...
+Export Data Types	导出数据类型
+Export Data Types (ISF)	导出数据类型 (ISF)
+Export Data Types Failed	导出数据类型失败
+Export Default Tool	导出默认工具
+Export Destination Error	导出目标错误
+Export Eclipse Project	导出 Eclipse 项目
+Export Error	导出错误
+Export Failure	导出失败
+Export Format	导出格式
+Export Graph	导出图
+Export Image	导出图像
+Export Image As...	将图像导出为...
+Export PCode Facts	导出 PCode 事实
+Export Program	导出程序
+Export Program...	导出程序...
+Export Summary	导出摘要
+Export Theme	导出主题
+Export Tool	导出工具
+Export Trace	导出跟踪
+Export Trace View	导出跟踪视图
+Export Trace...	导出跟踪...
+Export Zip	导出 Zip
+Export as Zip?	导出为 Zip？
+Export the current function to C	将当前函数导出为 C
+Export the current view as if a Ghidra program	将当前视图导出为 Ghidra 程序
+Export to C	导出为 C
+Export to C Failed	导出为 C 失败
+Export to Eclipse Project	导出到 Eclipse 项目
+Export to ISF...	导出为 ISF...
+Extensions	扩展
+Extensions Changed!	扩展已更改！
+External Add	外部添加
+External Data Type	外部数据类型
+External Detail	外部详情
+External Entry References	外部入口引用
+External Function Remove	外部函数移除
+External Function Versus Data Type	外部函数与数据类型
+External Program Location Change	外部程序位置更改
+External Remove	外部移除
+External Symbol Resolver	外部符号解析器
+External locations are not currently supported	目前不支持外部位置
+Extract Javadoc Task	提取 Javadoc 任务
+Extracting directory...	正在提取目录...
+FID DbViewer: 	FID 数据库查看器：
+FSB Add Library Search Path	FSB 添加库搜索路径
+FSB Add To Program	FSB 添加到程序
+FSB Clear Cached Passwords	FSB 清除缓存的密码
+FSB Create Crypto Key Template	FSB 创建加密密钥模板
+FSB Decompile JAR	FSB 反编译 JAR
+FSB Export Eclipse Project	FSB 导出 Eclipse 项目
+FSB Import Batch	FSB 批量导入
+FSB List Mounted Filesystems	FSB 列出已挂载的文件系统
+FSB Load iOS Kernel	FSB 加载 iOS 内核
+FSB Open With 	FSB 打开方式
+FSB Refresh	FSB 刷新
+Failed Committing Extension Changes	提交扩展更改失败
+Failed to Apply Callee Function Name	应用被调用函数名称失败
+Failed to Apply Callee Signature	应用被调用者签名失败
+Failed to Convert Project	转换项目失败
+Failed to Convert Project Storage	转换项目存储失败
+Failed to Create Session	创建会话失败
+Failed to Launch Tool	启动工具失败
+Failed to Open File	打开文件失败
+Failed to Open Program	打开程序失败
+Failed to Update Shared Project Info	更新共享项目信息失败
+Failed to copy file version	复制文件版本失败
+Failed to create tool chest.	创建工具箱失败。
+Failed to launch Decompiler process	启动反编译器进程失败
+Failed to launch Eclipse	启动 Eclipse 失败
+Failed to launch GNU Demangler process	启动 GNU 名称还原器进程失败
+Failed to launch Visual Studio Code	启动 Visual Studio Code 失败
+Failed to open FidDb	打开 FidDb 失败
+Failed to save 	保存失败：
+Failed to save image	保存图像失败
+Failure	失败
+Fallthrough	直通
+Favorite	收藏
+Fid Db Search	Fid 数据库搜索
+Fid Loading Cancelled	Fid 加载已取消
+FidDb IOException	FidDb IO 异常
+FidDbHash Function	FidDb 哈希函数
+FidHashes the current function for debug purposes	为调试目的计算当前函数的 Fid 哈希
+File	文件
+File Chooser Options	文件选择器选项
+File Copy Failed	文件复制失败
+File Error	文件错误
+File Format Error	文件格式错误
+File IO Error	文件 IO 错误
+File In-Use	文件正在使用
+File Not Found	未找到文件
+File System Listener	文件系统监听器
+File exists.	文件已存在。
+File is closed	文件已关闭
+File is empty	文件为空
+File not found	未找到文件
+File parse error	文件解析错误
+Fill Out Structure	补全结构
+Filter	过滤器

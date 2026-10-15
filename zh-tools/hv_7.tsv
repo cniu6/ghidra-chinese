@@ -1,0 +1,486 @@
+Show Expanded Format	显示展开格式
+Show Filter	显示过滤器
+Show Filters	显示过滤器
+Show Focus Cycle	显示焦点循环
+Show Focus Info	显示焦点信息
+Show Function Reachability	显示函数可达性
+Show Function Variables By Default	默认显示函数变量
+Show Graph Filters	显示图过滤器
+Show Hex Values	显示十六进制值
+Show Hidden	显示隐藏项
+Show History	显示历史
+Show In Data Type Manager	在数据类型管理器中显示
+Show Incoming Edges	显示传入边
+Show Incoming Level Edges	显示传入层级边
+Show Info	显示信息
+Show Instruction Info	显示指令信息
+Show Label History	显示标签历史
+Show Label History...	显示标签历史...
+Show Legend	显示图例
+Show Listing Format Header	显示列表格式标题
+Show Location	显示位置
+Show Location in Graph	在图中显示位置
+Show Locations Reference	显示位置引用
+Show Log	显示日志
+Show Memory Scan Controls	显示内存扫描控件
+Show Memory Search Controls	显示内存搜索控件
+Show Methods in Tree	在树中显示方法
+Show Namespace	显示命名空间
+Show Numbers in Hexadecimal	以十六进制显示数字
+Show Objects Tree	显示对象树
+Show Options	显示选项
+Show Outgoing Edges	显示传出边
+Show Outgoing Level Edges	显示传出层级边
+Show Partially Defined Strings	显示部分定义的字符串
+Show Preview Window	显示预览窗口
+Show Primitives in Tree	在树中显示基本类型
+Show Processor Manual	显示处理器手册
+Show Reference Locations	显示引用位置
+Show References To Address	显示指向地址的引用
+Show References to	显示引用到
+Show Satellite View	显示卫星视图
+Show Searched Functions	显示已搜索的函数
+Show Sections Table	显示节表
+Show Slice Tree	显示切片树
+Show Source Map Entries	显示源映射条目
+Show Undefined Strings	显示未定义字符串
+Show Variables By Default	默认显示变量
+Show Xrefs	显示交叉引用
+Show default register values	显示默认寄存器值
+Show the tool options for the Decompiler Code Comparison.	显示反编译器代码比较的工具选项。
+Show version history	显示版本历史
+Show/Hide Function Variables	显示/隐藏函数变量
+Show/Hide Variables	显示/隐藏变量
+Shows all uses of the selected data type	显示所选数据类型的所有使用处
+Shows program basic block flow	显示程序基本块流
+Shows program data relationships	显示程序数据关系
+Shows references to the current address	显示指向当前地址的引用
+Shows references to the item under the cursor	显示指向光标处项目的引用
+Shows relationships between functions	显示函数之间的关系
+Shows the Data Types filter	显示数据类型过滤器
+Shows the Function Call Trees window for the 	显示函数调用树窗口：
+Similar Data Match	相似数据匹配
+Similar Starts	相似起始
+Similar Symbol Name Match	相似符号名称匹配
+Simple Block	简单块
+Sink	汇
+Sink (Symbol)	汇（符号）
+Size	大小
+Skeleton Type Transfer Failed	骨架类型传递失败
+Skip Emulator	跳过模拟器
+Skipping 	正在跳过
+Skipping Insert	跳过插入
+Slice Tree	切片树
+Sort 	排序
+Sort Fragments By Address	按地址排序片段
+Sort Fragments By Name	按名称排序片段
+Source	源
+Source (Symbol)	源（符号）
+Source Code Lookup	源码查找
+Source File Table Model	源文件表模型
+Source Files Not Specified	未指定源文件
+Source bundle clean error	源包清理错误
+Spacer	间隔
+Specification Extension Errors	规范扩展错误
+Specifies a 16-bit RGB Color Encoding	指定 16 位 RGB 颜色编码
+Specifies a 32-bit RGB Color Encoding	指定 32 位 RGB 颜色编码
+Specify Old Language Output File	指定旧语言输出文件
+Specify Repository Name from server: 	指定服务器上的存储库名称：
+Specify Users for Repository: 	指定存储库用户：
+Split Block	拆分块
+Split OTHER Overlay Block Not Allowed	不允许拆分 OTHER 覆盖块
+Split Out As New Variable	拆分为新变量
+Split a block	拆分块
+Stack	栈
+Stack Depth Change or Function Purge?	栈深度变化还是函数栈清理？
+Stack Edit Error	栈编辑错误
+Stack conflict	栈冲突
+Star	星形
+Start Server	启动服务器
+Start a TCP server for incoming connections (indefinitely)	启动 TCP 服务器以接受传入连接（无限期）
+Started Ghidra process exited early with exit-value: 	启动的 Ghidra 进程提前退出，退出值：
+Step Emulator Back	模拟器后退一步
+Step Emulator Into	模拟器单步进入
+Step Finish	单步完成
+Step Into	单步进入
+Step Last	单步到最后
+Step Out	单步跳出
+Step Over	单步跳过
+Step Trace Snap Backward	跟踪快照后退一步
+Step Trace Snap Forward	跟踪快照前进一步
+Step the integrated emulator a single instruction backward	将集成模拟器后退一条指令
+Step the target a single instruction, descending into calls	单步执行目标一条指令，进入调用
+Step the target a single instruction, without following calls	单步执行目标一条指令，不跟入调用
+Step the target into	单步进入目标
+Step the target out	单步跳出目标
+Step the target out of the current frame	单步跳出目标的当前栈帧
+Step the target over	单步跳过目标
+Stop Server	停止服务器
+Storage	存储
+Storage Address Editor	存储地址编辑器
+String	字符串
+String Search	字符串搜索
+Strings Table	字符串表
+Structure Editor Error	结构编辑器错误
+Subroutine References	子例程引用
+Subtract Selection From Highlight	从高亮中减去所选内容
+Swift Type Metadata Analyzer	Swift 类型元数据分析器
+Switch Theme	切换主题
+Switch Workspace	切换工作区
+Symbol	符号
+Symbol Not Found: 	未找到符号：
+Symbol References	符号引用
+Symbol Server Config	符号服务器配置
+Symbol Table Filter	符号表过滤器
+Symbol Tree	符号树
+Symbol Tree Clone	符号树克隆
+Symbol Type	符号类型
+Symbol by the name 	符号名称为
+Symbols	符号
+Sync	同步
+Sync Dialog	同步对话框
+Sync Refresh Failed	同步刷新失败
+Synchronization	同步
+Synchronize Scrolling	同步滚动
+Synchronize Scrolling of Dual View	同步双视图滚动
+Synchronize Static and Dynamic Locations	同步静态和动态位置
+Synchronize Static and Dynamic Selections	同步静态和动态选择
+Table Column Filters	表列过滤器
+Table Data CSV Export	表数据 CSV 导出
+Table Data CSV Export (by Columns)	表数据 CSV 导出（按列）
+Table Data Copy	表数据复制
+Table Data Copy Current Column	表数据复制当前列
+Table Data Copy by Columns	表数据按列复制
+Table Select All	表全选
+Table Selection Mode	表选择模式
+Table Service Not Installed	未安装表服务
+Table is Busy	表正忙
+Table/Tree Activate Filter	表/树激活过滤器
+Table/Tree Hide Filter	表/树隐藏过滤器
+Tag 	标签
+Tag Chooser	标签选择器
+Tag Editor	标签编辑器
+Tag Not Editable	标签不可编辑
+Taint	污点
+Task Error	任务错误
+Task Title	任务标题
+Terminate	终止
+Terminate Checkout	终止检出
+Terminate Session	终止会话
+Terminate Unrecognized Checkouts	终止无法识别的检出
+Terminates the selected Checkout	终止所选检出
+Test	测试
+Test Set Warning	测试集警告
+Test Tool	测试工具
+Test Vector Sync Error	测试向量同步错误
+Text	文本
+Text Filter Options	文本过滤器选项
+Text Find Task	文本查找任务
+That name is already in use.	该名称已被使用。
+The TraceRmi service	TraceRmi 服务
+The current processor state is not known for constructing a legal instruction.	当前处理器状态未知，无法构造合法指令。
+The fragment or module you are adding is already there.	您要添加的片段或模块已存在。
+The program has no libraries.	程序没有库。
+The segments of the addresses do not match.	地址的段不匹配。
+The symbol '	符号 '
+Theme	主题
+There are fields without suitable constructors: 	存在没有合适构造函数的字段：
+There are no deletable themes	没有可删除的主题
+There are no options for this importer!	此导入器没有选项！
+There is no value for the given index.	给定索引没有对应的值。
+This is a test analyzer.	这是一个测试分析器。
+This script requires an open program	此脚本需要打开程序
+Thumb	Thumb
+Thunk Conflict	Thunk 冲突
+Thunk Destination Function/Address	Thunk 目标函数/地址
+Thunk Function	Thunk 函数
+Tip of the Day	每日提示
+Tips of the day	每日提示
+To/From &References	往返引用(&R)
+Toggle	切换
+Toggle 	切换
+Toggle Auto Delete	切换自动删除
+Toggle Breakpoint	切换断点
+Toggle Database Connection	切换数据库连接
+Toggle Dual Listing Visibility	切换双列表可见性
+Toggle Exact Constant Matching	切换精确常量匹配
+Toggle Expand/Collapse Data	切换展开/折叠数据
+Toggle Field	切换字段
+Toggle Field Failed!	切换字段失败！
+Toggle Grid Outline	切换网格轮廓
+Toggle Header	切换标题
+Toggle Hex Mode	切换十六进制模式
+Toggle Ignore Byte Diffs	切换忽略字节差异
+Toggle Ignore Constants	切换忽略常量
+Toggle Ignore Register Names	切换忽略寄存器名称
+Toggle Layout	切换布局
+Toggle Listing and Function Graph	切换列表和函数图
+Toggle Mouse Hover Popups	切换鼠标悬停弹窗
+Toggle Open Function	切换打开函数
+Toggle Process Trace	切换进程跟踪
+Toggle Respecting Read-only Flags	切换遵循只读标志
+Toggle Search Direction	切换搜索方向
+Toggle Show System Values	切换显示系统值
+Toggle Show Translated Value	切换显示翻译值
+Toggle Unreachable Code	切换不可达代码
+Toggle Visibility of Dual Comparison Views	切换双比较视图的可见性
+Toggle between grid and single column	在网格和单列之间切换
+Toggle display fo the Sections Table pane	切换节表窗格的显示
+Toggle display of the Attributes Table pane	切换属性表窗格的显示
+Toggle display of the Elements Table pane	切换元素表窗格的显示
+Toggle display of the Objects Tree pane	切换对象树窗格的显示
+Toggle off to eliminate unreachable code	关闭以消除不可达代码
+Toggle off to respect readonly flags set on memory	关闭以遵循内存上设置的只读标志
+Toggle show translation value	切换显示翻译值
+Toggle to recompute values with a carry operation.	切换为使用进位运算重新计算值。
+Toggle to recompute values with a one's complement.	切换为使用反码重新计算值。
+Toggle to recompute values with a two's complement.	切换为使用补码重新计算值。
+Toggle to recompute values with a xor operation.	切换为使用异或运算重新计算值。
+Toggle to show the hex values instead of decimal values.	切换为显示十六进制值而非十进制值。
+Toggled on shows a window containing a preview of the selected data type.	开启后显示包含所选数据类型预览的窗口。
+Toggles overview margin displays.	切换概览边栏显示。
+Toggles showing of default register values	切换默认寄存器值的显示
+Toggles trace overview margin displays.	切换跟踪概览边栏显示。
+Too Many References	引用过多
+Too Many Rows	行数过多
+Tool	工具
+Tool Busy Executing Task	工具正忙于执行任务
+Tool Chest Error	工具箱错误
+Tools	工具
+Trace	跟踪
+Trace Closed @	跟踪已关闭 @
+Trace Inactive Location	跟踪非活动位置
+Trace Location	跟踪位置
+Trace Opened @	跟踪已打开 @
+Trace Snapshot Backward	跟踪快照后退
+Trace Snapshot Forward	跟踪快照前进
+Track Location	跟踪位置
+Tranform File	变换文件
+Transaction Not Allowed	不允许事务
+Transaction has been terminated	事务已终止
+Transaction has not been started	事务尚未开始
+Transfer Dynamic Selection to Static	将动态选择传递到静态
+Transfer Static Selection to Dynamic	将静态选择传递到动态
+Transform Directory	变换目录
+Transform File	变换文件
+Transformer Table Model	变换器表模型
+Translate	翻译
+Translate with 	翻译使用
+Translation Incomplete	翻译不完整
+Translator Warning	翻译器警告
+Trap execution	陷入执行
+Tree	树
+Tree Collapse All	树全部折叠
+Tree Collapse Node	树折叠节点
+Tree Copy Formatted	树复制（带格式）
+Tree Expand All	树全部展开
+Tree Expand Node	树展开节点
+Triangle Down	向下三角形
+Triangle Up	向上三角形
+Truncated Text Display	截断文本显示
+Twos Complement	补码
+Type	类型
+Type Transfer Failed	类型传递失败
+Type is not supported.	不支持该类型。
+TypeDef not allowed	不允许 TypeDef
+Typedef	Typedef
+Typedef on 	Typedef 于
+Unable To Add To Program	无法添加到程序
+Unable To View Image	无法查看图像
+Unable to 	无法
+Unable to Access Clipboard	无法访问剪贴板
+Unable to Apply Markup Item(s)	无法应用标记项
+Unable to Compare	无法比较
+Unable to Compare Callees	无法比较被调用者
+Unable to Compare Functions	无法比较函数
+Unable to Export	无法导出
+Unable to Launch Manual Viewer	无法启动手册查看器
+Unable to Lock Archive for Writing	无法锁定归档以供写入
+Unable to Parse Command Arguments	无法解析命令参数
+Unable to Rename	无法重命名
+Unable to Retrieve ProgramCorrelatorInfo	无法检索 ProgramCorrelatorInfo
+Unable to Save Archive	无法保存归档
+Unable to Save File	无法保存文件
+Unable to Set Key Binding	无法设置快捷键
+Unable to Set Match Tag	无法设置匹配标签
+Unable to add source map info	无法添加源映射信息
+Unable to build XML data.	无法构建 XML 数据。
+Unable to checkin file(s)	无法检入文件
+Unable to create function at 	无法在以下位置创建函数：
+Unable to find a unique hash	无法找到唯一哈希
+Unable to import file 	无法导入文件
+Unable to release File Archive write lock.	无法释放文件归档的写锁。
+Unable to rename script	无法重命名脚本
+Unable to retrieve information	无法检索信息
+Unable to update file(s)	无法更新文件
+Unable to write to lock file: 	无法写入锁文件：
+Unapplied Changes	未应用的更改
+Unbelievable Error	不可思议的错误
+Uncaught Exception! 	未捕获的异常！
+Undefined	未定义
+Undefined Field	未定义字段
+Undo	撤销
+Undo 	撤销
+Undo Change	撤销更改
+Undo Check Out	撤销检出
+Undo Checkout	撤销检出
+Undo Hijack	撤销劫持
+Undo checkout	撤销检出
+Undo last change made to data type archive	撤销对数据类型归档所做的上一次更改
+Unexpected Analysis type 	意外的分析类型
+Unexpected Drag and Drop Exception	意外的拖放异常
+Unexpected Error	意外错误
+Unexpected Error: 	意外错误：
+Unexpected Exception	意外异常
+Unexpected Exception Pasting	粘贴时发生意外异常
+Unexpected bitfield apply error	应用位域时发生意外错误
+Unexpected end of string representation at position 	字符串表示在以下位置意外结束：
+Unexpected error printing: 	打印时发生意外错误：
+Unexpected error refreshing bytes	刷新字节时发生意外错误
+Unexpected exception closing byte provider.	关闭字节提供者时发生意外异常。
+Unexpected exception loading script	加载脚本时发生意外异常
+Unexpected exception saving data!	保存数据时发生意外异常！
+Unexpected memory access exception	意外的内存访问异常
+Ungroup All Vertices	取消所有顶点分组
+Ungroup Selected Vertices	取消所选顶点分组
+Ungroup Vertices	取消顶点分组
+Ungroup Vertices?	取消顶点分组？
+Ungroup selected vertices into individual vertex	将所选顶点拆分为单个顶点
+Unhandled Relocation Fixups	未处理的重定位修复
+Unify Functions	统一函数
+Unimplemented CALLOTHER pcodeop (	未实现的 CALLOTHER pcodeop (
+Unitialize Memory Block	取消初始化内存块
+Unknown	未知
+Unknown Analysis Type	未知的分析类型
+Unknown option	未知选项
+Unknown option: 	未知选项：
+Unmask all	取消全部屏蔽
+Unmodifiable Theme	不可修改的主题
+Unpins symbol(s) so that the symbol moves with memory block moves or image base changes.	取消固定符号，使符号随内存块移动或映像基址更改而移动。
+Unrecognized Symbol Conflict Type	无法识别的符号冲突类型
+Unrecognized or out-of-sequence request: 	无法识别或顺序错误的请求：
+Unrecognized storage mode: 0x	无法识别的存储模式：0x
+Unresolved: 	未解析：
+Unsupported ART (	不支持的 ART (
+Unsupported Constant Pool Type	不支持的常量池类型
+Unsupported DB field type: 0x	不支持的数据库字段类型：0x
+Unsupported Data Flavor	不支持的数据格式
+Unsupported Ghidra Distribution	不支持的 Ghidra 发行版
+Unsupported OAT (	不支持的 OAT (
+Unsupported Operation	不支持的操作
+Unsupported Property	不支持的属性
+Unsupported VDEX version: 	不支持的 VDEX 版本：
+Unsupported file type!	不支持的文件类型！
+Unsupported float format size: 	不支持的浮点格式大小：
+Unwind Stack	展开栈
+Unwind from frame 0	从栈帧 0 展开
+Unwind the stack, placing frames in the dynamic listing	展开栈，将栈帧放入动态列表
+Up One Level	上一级
+Update	更新
+Update Data Types From Archive	从归档更新数据类型
+Update Failed	更新失败
+Update From Archive	从归档更新
+Update Shared Project Info	更新共享项目信息
+Update Source Archive Names	更新源归档名称
+Update Symbol Comment Error	更新符号注释错误
+Update checked out file with latest version	使用最新版本更新已检出的文件
+Updating Program-Architecture for Archive	正在更新归档的程序架构
+Updating Strings Table	正在更新字符串表
+Upgrade	升级
+Upper Left	左上
+Upper Right	右上
+User Agreement	用户协议
+User Defined Property Merge Error	用户定义属性合并错误
+User Name Confirmation	用户名确认
+User cancelled Fid Db 	用户已取消 Fid 数据库
+User has insufficient privilege for operation.	用户权限不足，无法执行该操作。
+User is not the owner	用户不是所有者
+Utility	实用工具
+VSCode Service Error	VSCode 服务错误
+VT Destination Program not Checked Out	VT 目标程序未检出
+Value	值
+Variable Data Type	变量数据类型
+Variable Name	变量名称
+Variable Skeleton Type	变量骨架类型
+Variable Type	变量类型
+Variable Value Display	变量值显示
+Variable may not be modified	变量不可修改
+Variadic Function Signature Override	变参函数签名覆盖
+Verify Export Destination	验证导出目标
+Version Copy Failed	版本复制失败
+Version Exception	版本异常
+Version History	版本历史
+Version History for 	版本历史：
+Version Tracking	版本跟踪
+Version Tracking Help Action	版本跟踪帮助操作
+Version Tracking: Add To Session	版本跟踪：添加到会话
+Versioned File not Checked Out	版本化文件未检出
+Vertex View Mode	顶点视图模式
+View	视图
+View 	视图
+View As	查看为
+View As Text Failed	以文本查看失败
+View Checkouts	查看检出
+View Checkouts for 	查看检出：
+View Checkouts...	查看检出...
+View Full Screen	全屏查看
+View Instruction Details	查看指令详情
+View Instruction Details...	查看指令详情...
+View Magnifier	查看放大镜
+View Mode	查看模式
+View Project	查看项目
+View Project Access List	查看项目访问列表
+View Project Access List...	查看项目访问列表...
+View Project Info	查看项目信息
+View Project Info...	查看项目信息...
+View Project...	查看项目...
+View Recent	最近查看
+View Repository	查看存储库
+View Source	查看源码
+View Source File	查看源文件
+View Source...	查看源码...
+View current checkouts	查看当前检出
+View/Edit References From	查看/编辑引用自
+Views Only Allowed With Active Project	仅在有活动项目时允许使用视图
+Visual Studio Code Launcher Task	Visual Studio Code 启动任务
+WARNING!! Crypto Key File Already Exists	警告！加密密钥文件已存在
+Warning	警告
+Warning - Serious Precondition failures	警告 - 严重的前置条件失败
+Watch	监视
+Watch the selected item	监视所选项
+When toggled, generates checksums on 	切换后，将生成校验和：
+Where do you want to create the read-only installable database?	要在何处创建只读可安装数据库？
+Window	窗口
+Window Locations	窗口位置
+Windows Classic Theme	Windows 经典主题
+Windows Theme	Windows 主题
+Windows x86 PE Exception Handling	Windows x86 PE 异常处理
+Windows x86 PE RTTI Analyzer	Windows x86 PE RTTI 分析器
+Windows x86 Thread Environment Block (TEB) Analyzer	Windows x86 线程环境块 (TEB) 分析器
+WindowsPE x86 Propagate External Parameters	WindowsPE x86 传播外部参数
+Working Off-Line 	离线工作
+Workspace Name Exists	工作区名称已存在
+Wrapped Match Action: 	已回绕的匹配操作：
+Write Failed	写入失败
+Write Help Info File	写入帮助信息文件
+X86 Function Callee Purge	X86 函数被调用者栈清理
+XML Error	XML 错误
+XOR Checksum Values	异或校验和值
+Xtra	Xtra
+Yes, really. Delete them!	是的，确定。删除它们！
+You have chosen to 	您已选择
+You must first close 	您必须先关闭
+Zoom In	放大
+Zoom In (A)	放大 (A)
+Zoom In (Addrs)	放大（地址）
+Zoom In (T)	放大 (T)
+Zoom In (Time)	放大（时间）
+Zoom Out	缩小
+Zoom Out (A)	缩小 (A)
+Zoom Out (Addrs)	缩小（地址）
+Zoom Out (T)	缩小 (T)
+Zoom Out (Time)	缩小（时间）
+Zoom in	放大
+Zoom out	缩小
+Zoom to Vertex	缩放到顶点
+Zoom to Window	缩放到窗口

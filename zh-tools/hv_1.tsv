@@ -1,0 +1,420 @@
+AARCH64 ELF PLT Thunks	AARCH64 ELF PLT 跳板
+ARM Aggressive Instruction Finder	ARM 激进指令查找器
+ARM Symbol	ARM 符号
+ASCII Strings	ASCII 字符串
+AST Graph	AST 图
+AST Graph Failed	AST 图失败
+About 	关于
+About Ghidra	关于 Ghidra
+Abstract Interpretation	抽象解释
+Accept	接受
+Accept Implied Match	接受隐含匹配
+Accept Matches	接受匹配
+Accept a single inbound TCP connection	接受单个入站 TCP 连接
+Accepting URL	接受 URL
+Accumulating Data Settings	累积数据设置
+Action Chooser Dialog	操作选择器对话框
+Action Failed	操作失败
+Activate Link	激活链接
+Activates the last program used before the current program	激活当前程序之前使用的上一个程序
+Activator error!	激活器错误！
+Add All Field	添加所有字段
+Add All Incoming References	添加所有传入引用
+Add All Outgoing References	添加所有传出引用
+Add BSim Database	添加 BSim 数据库
+Add BSim Server	添加 BSim 服务器
+Add Bidirectional References For Selection	为所选内容添加双向引用
+Add Bitfield	添加位域
+Add Block	添加块
+Add Bookmark	添加书签
+Add Bundles	添加包
+Add CFG	添加 CFG
+Add Datatypes	添加数据类型
+Add Emulated Thread to Trace	向跟踪添加模拟线程
+Add Extension	添加扩展
+Add External Program	添加外部程序
+Add External Program Name	添加外部程序名称
+Add Field	添加字段
+Add From References	添加来源引用
+Add Functions	添加函数
+Add Functions To Comparison	将函数添加到比较
+Add Label	添加标签
+Add Label at 	添加标签于
+Add Library Search Path	添加库搜索路径
+Add Mapping	添加映射
+Add Memory Block	添加内存块
+Add Memory References	添加内存引用
+Add Notes bookmark to current location	在当前位置添加备注书签
+Add Path	添加路径
+Add Reference	添加引用
+Add Reference From	添加引用自
+Add References From Selection	添加来自所选内容的引用
+Add References To Selection	添加指向所选内容的引用
+Add Region	添加区域
+Add Selection To Highlight	将所选内容添加到高亮
+Add Spacer Field	添加间隔字段
+Add Static Mapping	添加静态映射
+Add Symbol Error	添加符号错误
+Add To Program	添加到程序
+Add To Program:  	添加到程序：
+Add To References	添加到引用
+Add To Session	添加到会话
+Add To Version Control Failed!	添加到版本控制失败！
+Add To/From References	添加来源/目标引用
+Add VarArgs	添加变长参数
+Add Workspace	添加工作区
+Add a new block to memory	向内存添加新块
+Add a new enum entry	添加新的枚举项
+Add additional correlations to the current version tracking session	向当前版本跟踪会话添加额外的关联
+Add an emulated thread to the current trace starting here	从此处开始，向当前跟踪添加模拟线程
+Add bundle(s)	添加包
+Add extension	添加扩展
+Add file to Version Control	将文件添加到版本控制
+Add forward reference	添加前向引用
+Add selected instructions from listing	从列表中添加所选指令
+Add the selected vertices to this group	将所选顶点添加到此组
+Add to Group	添加到组
+Add to Session Cancelled	添加到会话已取消
+Add to Session Cancelled - Unexpected Exception	添加到会话已取消 - 意外异常
+Add to Version Control	添加到版本控制
+Add to Version Control...	添加到版本控制...
+Add to Version Tracking Session	添加到版本跟踪会话
+Add to View	添加到视图
+Added by script!!	由脚本添加！！
+Address Display	地址显示
+Address not contained in memory.	地址不在内存中。
+Addresses to search is empty!	要搜索的地址为空！
+Adjust Filters	调整过滤器
+Adjust Pointer Offset	调整指针偏移
+Adjust the Apply Mark-up Settings for Applying Matches	调整应用匹配时的应用标记设置
+Aggressive Instruction Finder	激进指令查找器
+Algorithm	算法
+All Files in Project not Removed	项目中的所有文件均未移除
+All Local and Global Actions (	所有本地和全局操作（
+All Traces	所有跟踪
+All Valid Local and Global Actions (	所有有效的本地和全局操作（
+Allows user to select blocks of data.	允许用户选择数据块。
+Allows user to select scoped flow from current location.	允许用户从当前位置选择限定范围的流。
+Allows user to select scoped flow to the current location.	允许用户选择到达当前位置的限定范围的流。
+Already Associated	已关联
+Already The Same	已相同
+Ambiguous Symbol Name	符号名称有歧义
+Analysis	分析
+Analysis Options	分析选项
+Analyze All &Open...	分析所有已打开的(&O)...
+Analyze All Open	分析所有已打开
+Analyze Function Stack References	分析函数栈引用
+Analyze Node	分析节点
+Analyze Selected Byte Sequences	分析所选字节序列
+Analyze Selected Node	分析所选节点
+Analyze Selected Sequences	分析所选序列
+Analyze Sequences	分析序列
+Analyze Stack	分析栈
+Analyzer Error	分析器错误
+Analyzer to split rust static strings into slices	将 Rust 静态字符串拆分为切片的分析器
+Analyzes PIC Switch instructions.	分析 PIC 的 Switch 指令。
+Analyzes PIC-17 instructions.	分析 PIC-17 指令。
+Analyzes PIC-18 instructions.	分析 PIC-18 指令。
+Analyzes _objc_msgSend information.	分析 _objc_msgSend 信息。
+Analyzes data referenced by data.	分析被数据引用的数据。
+Analyzes data referenced by instructions.	分析被指令引用的数据。
+Analyzes undefined data for address tables.	分析未定义数据中的地址表。
+Analyzing All Open Programs	正在分析所有已打开的程序
+Android Boot Loader	Android 引导加载程序
+Annotates CramFS binaries	注释 CramFS 二进制文件
+Annotates the Android Boot Loader header components	注释 Android 引导加载程序头部组件
+Anonymous Server Login	匿名服务器登录
+Append Graph	追加图
+Apple iOS ARM Symbol Fixup	Apple iOS ARM 符号修复
+Apply (Add As Primary)	应用（添加为主要）
+Apply (Add)	应用（添加）
+Apply (Replace Default Only)	应用（仅替换默认）
+Apply (Replace First Only)	应用（仅替换第一个）
+Apply (Replace)	应用（替换）
+Apply Action	应用操作
+Apply Blocked Match	应用被阻止的匹配
+Apply Data Archives	应用数据归档
+Apply Data Type	应用数据类型
+Apply Data to Listing 	将数据应用到列表
+Apply Differences	应用差异
+Apply Enum	应用枚举
+Apply Filter To Panel	将过滤器应用到面板
+Apply Function Data Types	应用函数数据类型
+Apply Function Name	应用函数名称
+Apply Function Signature	应用函数签名
+Apply Last Unsaved	应用上次未保存的
+Apply Markup	应用标记
+Apply Markup Using Options And Forcing	使用选项并强制应用标记
+Apply Matches	应用匹配
+Apply Name	应用名称
+Apply Selected Items(s)	应用所选项目
+Apply Selection	应用所选内容
+Apply Signature	应用签名
+Apply Signature and Data Types	应用签名和数据类型
+Apply Signature and Datatypes	应用签名和数据类型
+Apply all	全部应用
+Apply changes to Enum	将更改应用到枚举
+Apply context and disassemble at the selected rows	在所选行应用上下文并反汇编
+Apply delta	应用增量
+Apply eBPF syscall Functions	应用 eBPF 系统调用函数
+Apply editor changes	应用编辑器更改
+Apply: 	应用：
+Applying Settings	正在应用设置
+Architecture does not equal	架构不等于
+Architecture equals	架构等于
+Archive	归档
+Archive Architecture Change	归档架构更改
+Archive Current Project	归档当前项目
+Archive Export Failed	归档导出失败
+Archive Failure	归档失败
+Archive File Exists	归档文件已存在
+Archive Not Checked Out	归档未被检出
+Archive Overwrite Failed	归档覆盖失败
+Archive Project	归档项目
+Archive Update Failed	归档更新失败
+Archive Upgraded	归档已升级
+Archive a Ghidra Project	归档 Ghidra 项目
+Archive already exists: 	归档已存在：
+Archiving Project: 	正在归档项目：
+Array	数组
+Artifical type that represents a Go closure context	表示 Go 闭包上下文的人工类型
+Artificial data type to hold a function's return values	用于保存函数返回值的人工数据类型
+As New Format	作为新格式
+Ascii	Ascii
+Assemble	汇编
+Assembler Rating	汇编器评级
+Assign Script Key Binding	指定脚本快捷键
+Associate Data Types?	关联数据类型？
+Associate With Archive	与归档关联
+Associate With Archive...	与归档关联...
+Association Status	关联状态
+Attach	附加
+Attach existing FidDb	附加现有 FidDb
+Attach existing FidDb...	附加现有 FidDb...
+Attempt to demangle any symbols mangled by rustc.	尝试还原被 rustc 修饰的符号。
+Attempt to force lock failed! 	强制获取锁失败！
+Attribute Model	属性模型
+Auto Analysis	自动分析
+Auto Analyze	自动分析
+Auto Create Structure	自动创建结构
+Auto Create Structure Failed	自动创建结构失败
+Auto Delete Completed Items	自动删除已完成项
+Auto Override	自动覆盖
+Auto Set Fallthroughs	自动设置直通
+Auto Version Tracking Command	自动版本跟踪命令
+Auto-Map Target Memory	自动映射目标内存
+Auto-Read Target Memory	自动读取目标内存
+Automatic Version Tracking	自动版本跟踪
+Automatically map dynamic memory to static counterparts	自动将动态内存映射到静态对应部分
+Automatically read and record visible memory from the live target	自动读取并记录实时目标的可见内存
+Automatically save traces to the project	自动将跟踪保存到项目
+Automatically synchronize the static and dynamic listings' cursors	自动同步静态与动态列表的光标
+BSim Connecting to 	BSim 正在连接到
+BSim Connection Failure	BSim 连接失败
+BSim DB Connection Failed	BSim 数据库连接失败
+BSim DB Connection...	BSim 数据库连接...
+BSim Feature Graph	BSim 特征图
+BSim Feature Visualizer	BSim 特征可视化器
+BSim Function Matching	BSim 函数匹配
+BSim Function Overview	BSim 函数概览
+BSim Overview	BSim 概览
+BSim Results Filters	BSim 结果过滤器
+BSim Search Criteria	BSim 搜索条件
+BSim Search For Similar Functions	BSim 相似函数搜索
+BSim Search From Decompiler	BSim 从反编译器搜索
+BSim Search From Listing	BSim 从列表搜索
+BSim Search From Listing With Dialog	BSim 从列表搜索（带对话框）
+BSim Search Functions	BSim 搜索函数
+BSim Search Results	BSim 搜索结果
+BSim Server Connection Failure	BSim 服务器连接失败
+BSim Server Manager	BSim 服务器管理器
+BSimFeatureVisualizer Error	BSim 特征可视化器错误
+Back Refs	反向引用
+Backward Operator Slice	向后算子切片
+Backward Slice	向后切片
+Bad Index Map	索引映射错误
+Bad PDB Age	PDB 年龄错误
+Bad PDB Values	PDB 值错误
+Bad URL	URL 错误
+Bad item storage name (expected hex value): 	项目存储名称错误（应为十六进制值）：
+Bad path	路径错误
+Bad program database!!	程序数据库已损坏！！
+Bad state?	状态异常？
+Base Image Address	映像基址
+Base of 	基址：
+Basic Block	基本块
+Batch Import	批量导入
+Batch Import Summary	批量导入摘要
+Batch Import Task	批量导入任务
+Between Dates	日期之间
+Binary	二进制
+Bitfield Conflict(s)	位域冲突
+Block Flow Graph	块流图
+Block Graph	块图
+Block Initialization Failed	块初始化失败
+BookMark Delete	书签删除
+Bookmark	书签
+Bookmark Filter	书签过滤器
+Bookmarks	书签
+Borland	Borland
+Bow Tie Layout	领结布局
+Breakpoint Emulation Error	断点模拟错误
+Breakpoint Sleigh Condition	断点 Sleigh 条件
+Breakpoint Sleigh Injection	断点 Sleigh 注入
+Bring Diff View to Front	将差异视图置于前台
+Bsim Search Dialog	BSim 搜索对话框
+Build Summary	构建摘要
+BuildResultState Error	BuildResultState 错误
+Bundle Location ID	包位置 ID
+Bundle Manager	包管理器
+Bundle Type	包类型
+Byte Viewer Options	字节查看器选项
+ByteViewer Clone	字节查看器克隆
+Bytes do not form a legal data item.	这些字节不能构成合法的数据项。
+Bytes do not form a legal instruction.	这些字节不能构成合法的指令。
+C&ode Flow	代码流(&O)
+CLI Metadata Token Analyzer	CLI 元数据标记分析器
+Calculate Layout Locations	计算布局位置
+Call Convention ID	调用约定 ID
+Call Graph	调用图
+Call-Fixup Installer	调用修复安装器
+Callee Name	被调用者名称
+Callee Signature	被调用者签名
+Callee Signature and Data Types	被调用者签名和数据类型
+Calls Using Model	使用模型的调用
+Calls external function	调用外部函数
+Can't Compare Memory	无法比较内存
+Can't Create Project Window	无法创建项目窗口
+Can't Load Previous Theme	无法加载上一个主题
+Can't Start Another Diff	无法启动另一个差异比较
+Can't add plugin: 	无法添加插件：
+Can't export empty selection.	无法导出空选择。
+Can't open 	无法打开
+Can't open Fid Query Service	无法打开 Fid 查询服务
+Can't open VT Session: 	无法打开 VT 会话：
+Can't set filters with no graph present!	没有图时无法设置过滤器！
+Cancel	取消
+Cannot Apply SourceMap Information	无法应用源映射信息
+Cannot Change Project Info with Open Files	有打开的文件时无法更改项目信息
+Cannot Compare Programs	无法比较程序
+Cannot Convert Project with Open Files	有打开的文件时无法转换项目
+Cannot Copy Data	无法复制数据
+Cannot Create Link	无法创建链接
+Cannot Create Match	无法创建匹配
+Cannot Delete Active Project	无法删除活动项目
+Cannot Delete Version	无法删除版本
+Cannot Edit Destination Address	无法编辑目标地址
+Cannot Find Tool	找不到工具
+Cannot Generate Help Report	无法生成帮助报告
+Cannot Group a Single Group Vertex	无法对单个组顶点分组
+Cannot Move File	无法移动文件
+Cannot Move Folder	无法移动文件夹
+Cannot Perform Save As	无法执行另存为
+Cannot Remove Project Not In View	无法移除不在视图中的项目
+Cannot edit Register Value	无法编辑寄存器值
+Cannot instantiate 	无法实例化
+Cannot load plugin	无法加载插件
+Cannot open project 	无法打开项目
+Cannot parse string into address.	无法将字符串解析为地址。
+Cannot restore project view	无法恢复项目视图
+Capture Active Component	捕获活动组件
+Capture Current Tool Frame	捕获当前工具框架
+Capture Function Data Types	捕获函数数据类型
+Carry Checksum Values	携带校验和值
+Category	类别
+Category Chooser	类别选择器
+Change Parent Namespace Failed	更改父命名空间失败
+Change Password	更改密码
+Change Password...	更改密码...
+Change Theme	更改主题
+Change User Password	更改用户密码
+Change all the difference type apply settings to Ignore.	将所有差异类型的应用设置更改为忽略。
+Change all the difference type apply settings to Replace.	将所有差异类型的应用设置更改为替换。
+Change the dynamic seleciton to mathc the static selection	将动态选择更改为与静态选择一致
+Change the label for the code block	更改代码块的标签
+Change the static selection to match the dynamic selection	将静态选择更改为与动态选择一致
+Change the time radix for this trace / target	更改此跟踪/目标的时间进制
+Changing Graph Layout to 	正在将图布局更改为
+Char	字符
+Chars	字符
+Check Clipboard Failed	检查剪贴板失败
+Check In	检入
+Check In...	检入...
+Check Out	检出
+Check in file	检入文件
+Check out file	检出文件
+Checkin Failed	检入失败
+Checking Out 	正在检出
+Checking Program Differences	正在检查程序差异
+Checkout Failed	检出失败
+Checkout VT Session	检出 VT 会话
+Checkout VT Session Failed: 	检出 VT 会话失败：
+Checkout Versioned File(s)	检出已版本控制的文件
+Checkouts Panel	检出面板
+Choose 	选择
+Choose Active FidDbs	选择活动的 FidDb
+Choose Common Symbols File	选择常见符号文件
+Choose Field	选择字段
+Choose File	选择文件
+Choose File to Batch Import	选择要批量导入的文件
+Choose Icon	选择图标
+Choose Match Tag	选择匹配标签
+Choose New Color	选择新颜色
+Choose New Source Archive	选择新的源归档
+Choose Path	选择路径
+Choose Platform	选择平台
+Choose Save Archive File	选择保存的归档文件
+Choose Tag	选择标签
+Choose Theme File	选择主题文件
+Choose a Data Type Manager or Cancel	选择数据类型管理器或取消
+Choose active FidDbs...	选择活动的 FidDb...
+Choose and configure the current emulator	选择并配置当前模拟器
+Choose how to add a path:	选择添加路径的方式：
+Choose what to control and edit in dynamic views	选择在动态视图中控制和编辑的内容
+Choose whether displayed objects must be alive at the current snap	选择显示的对象是否必须在当前快照时存活
+Choose whether to display hidden children	选择是否显示隐藏的子项
+Choose whether to display methods in the tree	选择是否在树中显示方法
+Choose whether to display primitive values in the tree	选择是否在树中显示基本类型值
+Class 	类
+Class Usage Error	类使用错误
+Classes Filtered Out of View	视图中被过滤掉的类
+Clear	清除
+Clear All Breakpoints	清除所有断点
+Clear All Colors	清除所有颜色
+Clear All Taint Marks	清除所有污点标记
+Clear Architecture	清除架构
+Clear Archive Architecture	清除归档架构
+Clear BSim Error Status	清除 BSim 错误状态
+Clear Background Color	清除背景色
+Clear Breakpoint	清除断点
+Clear CFGs	清除 CFG
+Clear CFGs prior to analysis	分析前清除 CFG
+Clear Cached Passwords	清除缓存的密码
+Clear Color	清除颜色
+Clear Conflicting Matches and Apply?	清除冲突的匹配并应用？
+Clear Console	清除控制台
+Clear Current Selection	清除当前选择
+Clear Cut	清除剪切
+Clear Decompiler Highlights	清除反编译器高亮
+Clear Display	清除显示
+Clear External Name Association	清除外部名称关联
+Clear Fallthroughs	清除直通
+Clear Filter	清除过滤器
+Clear Flow	清除流
+Clear Function Return Type	清除函数返回类型
+Clear History Buffer	清除历史缓冲区
+Clear Interpreter	清除解释器
+Clear Markers	清除标记
+Clear Match Tag	清除匹配标签
+Clear Matches	清除匹配
+Clear Overrides	清除覆盖
+Clear PKI Certificate	清除 PKI 证书
+Clear Parameter Data Type	清除参数数据类型
+Clear Pinned Symbol	清除固定符号
+Clear Pinned Symbol(s)	清除固定符号
+Clear Profile	清除配置文件
+Clear Program Architecture Failed	清除程序架构失败
+Clear Register Values	清除寄存器值
+Clear Register Values...	清除寄存器值...
+Clear Selection	清除选择
+Clear Tag on Markup Items	清除标记项上的标签

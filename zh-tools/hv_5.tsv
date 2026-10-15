@@ -1,0 +1,470 @@
+MD5 equals	MD5 等于
+MIPS Symbol	MIPS 符号
+MIPS UnAlligned Instruction Fix	MIPS 未对齐指令修复
+Mac Theme	Mac 主题
+Mach-O Constructor/Destructor	Mach-O 构造函数/析构函数
+Mach-O Function Starts	Mach-O 函数起始
+Make	创建
+Make Breakpoints Effective	使断点生效
+Make Char Array	创建字符数组
+Make Selection	创建选择
+Make Selection From Focused Edges	从聚焦的边创建选择
+Make Selection From Hovered Edges	从悬停的边创建选择
+Make Selections	创建选择
+Make String	创建字符串
+Make Tables	创建表
+Make a program selection from the selected rows	从所选行创建程序选择
+Manage BSim Servers	管理 BSim 服务器
+Manage Properties	管理属性
+Manage Servers	管理服务器
+Manual Match	手动匹配
+Manually add a region to the memory map	手动向内存映射添加区域
+Manually select the target platform	手动选择目标平台
+Map Identically	相同映射
+Map Missing Module	映射缺失的模块
+Map Missing Program Identically	相同映射缺失的程序
+Map Missing Program to Current Module	将缺失的程序映射到当前模块
+Map Modules	映射模块
+Map Regions	映射区域
+Map Registers	映射寄存器
+Map Sections	映射节
+Map modules	映射模块
+Map regions	映射区域
+Map sections	映射节
+Map the missing module to an existing import	将缺失的模块映射到现有导入
+Map the missing program to its trace identically	将缺失的程序与其跟踪相同映射
+Map the missing program to the current module	将缺失的程序映射到当前模块
+Mapping C Tokens Between Functions	正在映射函数之间的 C 标记
+Mark Gate	标记门
+Mark Selection Start	标记选择起点
+Mark Sink	标记汇
+Mark Sink (Symbol)	标记汇（符号）
+Mark Source	标记源
+Mark Source (Symbol)	标记源（符号）
+Mark and Select	标记并选择
+Markup Status	标记状态
+Markup Type	标记类型
+Mask all addresses	屏蔽所有地址
+Mask all non-instructions (data)	屏蔽所有非指令（数据）
+Mask all operands	屏蔽所有操作数
+Mask all scalars	屏蔽所有标量
+Masked Byte Sequence Matcher	带掩码字节序列匹配器
+Match Exists	匹配已存在
+Match Not Found	未找到匹配
+Match Type	匹配类型
+Max Starts must be positive!	最大起始数必须为正数！
+Maximum capacity exceeded: 	超出最大容量：
+Memory	内存
+Memory Access Error Occurred	发生内存访问错误
+Memory Access Exception	内存访问异常
+Memory Blocks	内存块
+Memory Blocks Validator	内存块验证器
+Memory Move Failed	内存移动失败
+Memory Search	内存搜索
+Menu	菜单
+Merge	合并
+Merge '	合并 '
+Merge Blocks	合并块
+Merge Data Types	合并数据类型
+Merge Data Types?	合并数据类型？
+Merge Failed	合并失败
+Merge Selected Rows	合并所选行
+Merge Version Tracking Session	合并版本跟踪会话
+Merge blocks into a single block	将块合并为单个块
+Merge folder/fragment with Parent	将文件夹/片段与父级合并
+Merge source must be a program datatype.	合并源必须是程序数据类型。
+Merge with Parent	与父级合并
+Merges the currently selected rows	合并当前所选行
+Metal Theme	Metal 主题
+MinGW Relocations	MinGW 重定位
+Mine Sequential Patterns	挖掘序列模式
+Minimum size must be positive!	最小大小必须为正数！
+Mining Closed Sequences	正在挖掘闭序列
+Mining Program	正在挖掘程序
+Misc	杂项
+Miscellaneous	杂项
+Mismatched Pdb File Warning	PDB 文件不匹配警告
+Missing Data Gathering Parameters	缺少数据收集参数
+Missing Eclipse Executable	缺少 Eclipse 可执行文件
+Missing Exclusive Access	缺少独占访问
+Missing File	缺少文件
+Missing File Type	缺少文件类型
+Missing Native Components	缺少原生组件
+Missing Plugin	缺少插件
+Missing Processor Manual	缺少处理器手册
+Missing VSCode executable	缺少 VSCode 可执行文件
+Missing language	缺少语言
+Modify Instruction Flow	修改指令流
+Modify Instruction Flow on Selection	修改所选内容的指令流
+Modify Instruction Flow...	修改指令流...
+Modify Instruction Flow: 	修改指令流：
+Modify Instruction Length	修改指令长度
+Modify Instruction Length...	修改指令长度...
+Modularize By	模块化方式
+Modularize By Subroutine	按子例程模块化
+Modularize By Subroutine [	按子例程模块化 [
+Module Sort Failed	模块排序失败
+Motif Theme	Motif 主题
+Mouse Binding In Use	鼠标绑定已被使用
+Move Block	移动块
+Move Code Units Failed	移动代码单元失败
+Move Memory Block	移动内存块
+Move a block to another address	将块移动到另一地址
+Move selected components up	上移所选组件
+Move the selected components down	下移所选组件
+Moving OTHER Overlay Block Not Allowed	不允许移动 OTHER 覆盖块
+Multiple Causes	多种原因
+Multiple Entry	多入口
+Multiple Regions Selected	选择了多个区域
+Name	名称
+Name cannot be empty.	名称不能为空。
+Name contains invalid characters.	名称包含无效字符。
+Name transfer failed	名称传递失败
+Namespace Chooser	命名空间选择器
+Native Desktop Unsupported	不支持原生桌面
+Navigate Outgoing Nodes	导航传出节点
+Navigate on Incoming	传入时导航
+Navigate on Incoming Location Changes	传入位置变化时导航
+Navigate on Outgoing	传出时导航
+Navigate the recording backward one p-code tick	将记录向后导航一个 p-code 周期
+Navigate the recording backward one snap	将记录向后导航一个快照
+Navigate the recording forward one snap	将记录向前导航一个快照
+Navigate the trace recording backward one snapshot	将跟踪记录向后导航一个快照
+Navigate the trace recording forward one snapshot	将跟踪记录向前导航一个快照
+Navigate to Selected Function	导航到所选函数
+Navigate to the link target	导航到链接目标
+Navigation	导航
+Navigation Failed	导航失败
+Navigation Incoming Location Changes	导航传入位置变化
+NavigationAction: 	NavigationAction：
+Nested delay slotted instruction not permitted	不允许嵌套的延迟槽指令
+New Category	新建类别
+New Dynamic Listing	新建动态列表
+New File Archive...	新建文件归档...
+New File Data Type Archive	新建文件数据类型归档
+New Folder	新建文件夹
+New Function Comparison	新建函数比较
+New Function Comparison (Listing)	新建函数比较（列表）
+New Memory View	新建内存视图
+New Plugins Found!	发现新插件！
+New Project	新建项目
+New Project Archive...	新建项目归档...
+New Project Data Type Archive	新建项目数据类型归档
+New Project...	新建项目...
+New Script: Type	新建脚本：类型
+New Theme	新建主题
+New Variable Failed	新建变量失败
+New Version Tracking Session	新建版本跟踪会话
+New name:	新名称：
+New parameter conflicts with '	新参数与以下冲突：'
+Next Bookmark	下一个书签
+Next Color Range	下一个颜色范围
+Next Difference	下一个差异
+Next Highlight	下一个高亮
+Next Highlighted Token	下一个高亮标记
+Nimbus Theme	Nimbus 主题
+No Arg Functions	无参函数
+No Associations Found	未找到关联
+No CDT Installed	未安装 CDT
+No Changes Made	未做任何更改
+No Checkouts Exist	没有检出
+No Code Types Selected!	未选择代码类型！
+No Data Type Changes	没有数据类型更改
+No Function Selected	未选择函数
+No Graph	无图
+No Memory In Common	没有共同的内存
+No Memory Regions Selected!	未选择内存区域！
+No Modified Files	没有已修改的文件
+No New Outgoing References Found	未发现新的传出引用
+No New References Found	未发现新引用
+No Open Program	没有打开的程序
+No Options	无选项
+No Path Transform	无路径变换
+No Popups Enabled	未启用弹窗
+No Post Pattern	无后置模式
+No Pre Pattern	无前置模式
+No Processor Manual	没有处理器手册
+No Program	没有程序
+No Program Association	没有程序关联
+No Program Error	无程序错误
+No Program Found	未找到程序
+No Ranges to Display	没有可显示的范围
+No References Found	未找到引用
+No Results Found!	未找到结果！
+No Results Founds	未找到结果
+No Saved Filters	没有已保存的过滤器
+No Settings Found	未找到设置
+No Source Archives Open	没有打开的源归档
+No Table Service	没有表服务
+No active program found	未找到活动程序
+No address: 	无地址：
+No control service.	没有控制服务。
+No current program	没有当前程序
+No file selected	未选择文件
+No file will be imported.	不会导入任何文件。
+No functions in training set	训练集中没有函数
+No referenced address selected	未选择被引用的地址
+No valid start address!	没有有效的起始地址！
+Non-Returning Functions - Discovered	不返回函数 - 已发现
+Non-Returning Functions - Known	不返回函数 - 已知
+Not Between Dates	不在日期之间
+Not Project Owner	不是项目所有者
+Not enough bytes available to parse a legal instruction	可用字节不足，无法解析合法指令
+Nothing to do	无需处理
+Nothing to do, finished.	无需处理，已完成。
+Null Program	空程序
+Number Of Functions Validator	函数数量验证器
+Number Of No-Returns Functions Validator	不返回函数数量验证器
+OSGi State	OSGi 状态
+Object Model	对象模型
+Object has been deleted.	对象已被删除。
+Object is read-only.	对象为只读。
+Object was not found.	未找到对象。
+Object was occupied.	对象被占用。
+Objective-C Message Analyzer	Objective-C 消息分析器
+Objective-C Type Metadata Analyzer	Objective-C 类型元数据分析器
+Obsolete	已过时
+Octagon	八边形
+Octal	八进制
+Offcut References Validator	偏移引用验证器
+On Selection	基于所选内容
+On or After Date	在此日期或之后
+On or Before Date	在此日期或之前
+One Shot	单次分析
+One of the programs you selected is 	您选择的程序之一为
+Ones Complement	反码
+Only Pre-Patterns	仅前置模式
+Open	打开
+Open All Functions	打开所有函数
+Open Archive Failed	打开归档失败
+Open Archive for Edit?	打开归档进行编辑？
+Open Diff View	打开差异视图
+Open Directory [new window]	打开目录 [新窗口]
+Open File	打开文件
+Open File Archive...	打开文件归档...
+Open File Data Type Archive	打开文件数据类型归档
+Open File System	打开文件系统
+Open File System Failed	打开文件系统失败
+Open File System [new window]	打开文件系统 [新窗口]
+Open File System...	打开文件系统...
+Open Filesystem	打开文件系统
+Open For Editing	打开进行编辑
+Open In Default Tool	在默认工具中打开
+Open Program	打开程序
+Open Program(s)	打开程序
+Open Project	打开项目
+Open Project Archive...	打开项目归档...
+Open Project Data Type Archive	打开项目数据类型归档
+Open Project Failed	打开项目失败
+Open Project Failed!	打开项目失败！
+Open Project...	打开项目...
+Open Session	打开会话
+Open Trace	打开跟踪
+Open Tree View	打开树视图
+Open With	打开方式
+Open With 	打开方式
+Open a new dynamic disassembly listing	打开新的动态反汇编列表
+Open a new memory bytes view	打开新的内存字节视图
+Open a trace from the project	从项目中打开跟踪
+Open a window to search the FID DBs in debug mode	打开窗口，以调试模式搜索 FID 数据库
+Open all data recursively from the current location downward.	从当前位置向下递归打开所有数据。
+Open all data recursively in the current selection.	递归打开当前选择中的所有数据。
+Open in Default Tool	在默认工具中打开
+Open the program	打开程序
+Open/Close Function	打开/关闭函数
+Opening Archive 	正在打开归档
+Opening VT Session	正在打开 VT 会话
+Opening VT Session: 	正在打开 VT 会话：
+Opens a Version Tracking Session	打开版本跟踪会话
+Opens a data type archive in this data type manager.	在此数据类型管理器中打开数据类型归档。
+Opens a project data type archive in this data type manager.	在此数据类型管理器中打开项目数据类型归档。
+Opens the indicated archive in the data type manager.	在数据类型管理器中打开指定的归档。
+Opens the options editor for adding paths that will be searched when 	打开选项编辑器，用于添加搜索路径，这些路径将在以下情况下被搜索：
+Opens the selected version in the default tool.	在默认工具中打开所选版本。
+Opens the version using the 	使用以下方式打开该版本：
+Operation cancelled	操作已取消
+Options	选项
+Options Dialog	选项对话框
+Organize By Subroutine	按子例程组织
+Orientation	方向
+Original Bytes	原始字节
+Original File	原始文件
+Other Traces	其他跟踪
+Outgoing References	传出引用
+Overlap between Training Positive and Training Negative Sets	训练正集与训练负集之间存在重叠
+Overlapping Test Positive and Negative sets	测试正集与负集存在重叠
+Overlapping Training and Test Sets	训练集与测试集存在重叠
+Overlaps other regions	与其他区域重叠
+Override Signature	覆盖签名
+Override Signature Failed	覆盖签名失败
+Overview	概览
+Overview BSim Search	BSim 搜索概览
+Overview BSim Search From Dialog	从对话框进行 BSim 搜索概览
+Overwrite Existing Data?	覆盖现有数据？
+Overwrite Existing File?	覆盖现有文件？
+Overwrite Existing Theme?	覆盖现有主题？
+Overwrite Tool?	覆盖工具？
+PDB Universal	PDB 通用
+PDB Universal Function Internals	PDB 通用函数内部结构
+PDB Universal Reporting	PDB 通用报告
+PEF Debug	PEF 调试
+PEF Indirect Addressing	PEF 间接寻址
+PIC Switch Tables	PIC Switch 表
+PIC-12C5xx or PIC-16C5x	PIC-12C5xx 或 PIC-16C5x
+PKI Keystore Failure	PKI 密钥库失败
+Page Setup	页面设置
+Parameter Commit Failed	参数提交失败
+Parameter/Variable Storage	参数/变量存储
+Parse C Source	解析 C 源码
+Parsing C Files	正在解析 C 文件
+Parsing error	解析错误
+Partitioned Code	分区代码
+Pascal String Search	Pascal 字符串搜索
+Password Change Failed	更改密码失败
+Password Changed	密码已更改
+Password Changed Failed	更改密码失败
+Password Error	密码错误
+Passwords do not match!	两次输入的密码不一致！
+Paste	粘贴
+Paste 	粘贴
+Paste Error	粘贴错误
+Paste Failure(s)	粘贴失败
+Paste String Into Program?	将字符串粘贴到程序？
+Paste Symbols	粘贴符号
+Paste Task	粘贴任务
+Paste as 	粘贴为
+Paste folder/fragment	粘贴文件夹/片段
+Paste from Clipboard Failed	从剪贴板粘贴失败
+Patch Failure	补丁失败
+Path	路径
+Path starts with	路径起始于
+Pattern Evaluation	模式评估
+Pcode	Pcode
+Pcode: 	Pcode：
+Pentaon	五边形
+Percent Analyzed Validator	已分析百分比验证器
+Perform Overview...	执行概览...
+Permanent	永久
+Permission Denied	权限被拒绝
+Permissions Error	权限错误
+Pick Charset	选择字符集
+Pick Language	选择语言
+Pick Tool	选择工具
+Pin Interpreter	固定解释器
+Pin Symbol	固定符号
+Place enabled but ineffective breakpoints where possible	尽可能放置已启用但无效的断点
+PlaceHolder Class Structure	占位类结构
+PlaceHolder Structure	占位结构
+Plate Comment	块注释
+Platform	平台
+Please Choose Output File	请选择输出文件
+Please Select A File	请选择文件
+Please Select Background Color	请选择背景色
+Please add the TableServicePlugin.	请添加 TableServicePlugin。
+Please enter a name.	请输入名称。
+Please notify the Ghidra team:	请通知 Ghidra 团队：
+Please open a program	请打开一个程序
+Plugin Dependency Layout	插件依赖布局
+Plugin Error	插件错误
+Plugin Event Display	插件事件显示
+Plugin Event Error	插件事件错误
+Plugin Path...	插件路径...
+Plugin to create a program tree and modularize accordingly	用于创建程序树并据此模块化的插件
+Plugins	插件
+Pointer	指针
+Pointer to 	指向
+Pointers Filter Enabled	已启用指针过滤器
+Populate Fid Database	填充 Fid 数据库
+Populate FidDb from programs	从程序填充 FidDb
+Popup Window Showing All 	显示全部内容的弹出窗口：
+Ports May Not Match	端口可能不匹配
+Post Comment	后置注释
+Post Program Activated	程序激活后
+Potential Start in 	潜在起始位置：
+Pre Comment	前置注释
+Prevent this Interpreter from closing automatically	防止此解释器自动关闭
+Preview Window	预览窗口
+Previous Color Range	上一个颜色范围
+Previous Difference	上一个差异
+Previous Folder Visited	上次访问的文件夹
+Previous Highlight	上一个高亮
+Previous Highlighted Token	上一个高亮标记
+Print	打印
+Print Failed	打印失败
+Print Options	打印选项
+Printing Error	打印错误
+Printing task interrupted	打印任务被中断
+Problem Starting Explorer	启动资源管理器时出现问题
+Problem loading 	加载时出现问题：
+Problem starting explorer	启动资源管理器时出现问题
+Problem with configuration file 	配置文件有问题：
+Process exited with status 	进程已退出，状态码：
+Processes .dinit Data Initialization Section	处理 .dinit 数据初始化节
+Processor Manual	处理器手册
+Processor Options	处理器选项
+Program 	程序
+Program &Text...	程序文本(&T)...
+Program Activated	程序已激活
+Program Architecture not Specified	未指定程序架构
+Program Changed	程序已更改
+Program Closed	程序已关闭
+Program Error	程序错误
+Program Not Found	未找到程序
+Program Not Found: 	未找到程序：
+Program Opened	程序已打开
+Program Options	程序选项
+Program SaveAs Error	程序另存为错误
+Program Tree	程序树
+Program Trees	程序树
+Program is locked!	程序已被锁定！
+Programming Error	编程错误
+Project	项目
+Project Access List for 	项目访问列表：
+Project Archive Open Error	项目归档打开错误
+Project Data Table	项目数据表
+Project Does Not Exist	项目不存在
+Project Exists	项目已存在
+Project Information	项目信息
+Project Locked	项目已锁定
+Project Locked - Delete Lock?	项目已锁定 - 删除锁？
+Project Open Failed	项目打开失败
+Project Window	项目窗口
+Project data type archive not found: 	未找到项目数据类型归档：
+Project is Locked	项目已锁定
+Properties	属性
+Properties Removed on Upgrade	升级时已移除的属性
+Property Key	属性键
+Purge Index Action	清除索引操作
+Push at any time to trigger a re-decompile	随时点击以触发重新反编译
+Python error	Python 错误
+Query Overview	查询概览
+Query Results	查询结果
+Query URL Content Type	查询 URL 内容类型
+Quick Edit Field	快速编辑字段
+Quick Edit Field...	快速编辑字段...
+Quick Launch	快速启动
+Raw Bytes	原始字节
+Re-create Function	重新创建函数
+Re-export Function Facts	重新导出函数事实
+Read	读取
+Read File	读取文件
+Read Selected Memory	读取所选内存
+Read-Only Archive	只读归档
+Read-Only Files	只读文件
+Read-only Project!	只读项目！
+Reading XML	正在读取 XML
+Recent	最近
+Recenter	重新居中
+Recenter Image	图像重新居中
+Recently Used	最近使用
+Record	记录
+Record the process into a trace and open it (live trace)	将进程记录到跟踪并打开（实时跟踪）
+Recover Structure Variable	恢复结构变量
+Recovery Snapshot Error	恢复快照错误
+Rectangle	矩形
+Recurse Depth	递归深度
+Recursively expand all selected nodes.	递归展开所有所选节点。
+Red Flags Validator	红旗验证器
+Redo	重做
+Redo 	重做
+Redo Change	重做更改

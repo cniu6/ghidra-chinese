@@ -1,0 +1,203 @@
+Function Start Search	函数起始搜索
+Function Start Pre Search	函数起始预搜索
+Function Start Analyzer	函数起始分析器
+Function Start Search After Code	函数起始搜索（代码之后）
+Function Start Search After Data	函数起始搜索（数据之后）
+PDB MSDIA	PDB MSDIA
+WindowsResourceReference	Windows 资源引用
+Windows Resource Reference	Windows 资源引用
+Classes	类
+Class	类
+Imports	导入
+Exports	导出
+Namespaces	命名空间
+Namespace	命名空间
+Labels	标签
+Symbol Tree	符号树
+Data Type Manager	数据类型管理器
+Data Types Manager	数据类型管理器
+Program Tree	程序树
+Listing: 	列表：
+Decompile: 	反编译：
+Console - Scripting	控制台 - 脚本
+Script Manager	脚本管理器
+Function Call Graph	函数调用图
+Function Call Trees	函数调用树
+Function Graph	函数图
+Defined Strings	已定义字符串
+Defined Data	已定义数据
+Memory Map	内存映射
+Bookmarks	书签
+Symbol Table	符号表
+Symbol References	符号引用
+Entropy	熵
+Byte Viewer	字节查看器
+Bytes	字节
+Bytes: 	字节：
+Checksum	校验和
+Equates	等值
+Equates Table	等值表
+Registers	寄存器
+Relocation Table	重定位表
+Comments	注释
+Properties	属性
+Code Browser	代码浏览器
+CodeBrowser	代码浏览器
+Version Tracking	版本跟踪
+Debugger	调试器
+Emulator	模拟器
+Front End	前端
+Ghidra: 	Ghidra：
+Analyze	分析
+Auto Analyze...	自动分析...
+Analyze All Open...	分析所有已打开的...
+One Shot...	单次分析...
+Analysis Options...	分析选项...
+Auto Analysis Options...	自动分析选项...
+File	文件
+Edit	编辑
+Analysis	分析
+Graph	图表
+Navigation	导航
+Search	搜索
+Select	选择
+Tools	工具
+Window	窗口
+Help	帮助
+Project	项目
+Open Project...	打开项目...
+Recent Projects	最近的项目
+Import File...	导入文件...
+Batch Import...	批量导入...
+Export Program...	导出程序...
+Save	保存
+Save As...	另存为...
+Close	关闭
+Exit Ghidra	退出 Ghidra
+Undo	撤销
+Redo	重做
+Cut	剪切
+Copy	复制
+Paste	粘贴
+Clear	清除
+Rename	重命名
+Disassemble	反汇编
+Clear Code Bytes	清除代码字节
+Create Function	创建函数
+Edit Function...	编辑函数...
+Delete Function	删除函数
+Data	数据
+Undefined	未定义
+Define Data	定义数据
+Create Structure	创建结构
+Create Array	创建数组
+Choose Data Type...	选择数据类型...
+Set Equate...	设置等值...
+Set Operand Label	设置操作数标签
+Add Label	添加标签
+Edit Label...	编辑标签...
+Set Comment	设置注释
+Pre Comment...	前置注释...
+Post Comment...	后置注释...
+Plate Comment...	块注释...
+EOL Comment...	行尾注释...
+Repeatable Comment...	可重复注释...
+References	引用
+Show References to	显示引用到
+Find References to	查找引用到
+Go To...	转到...
+Go To Address...	转到地址...
+Next Function	下一个函数
+Previous Function	上一个函数
+For Strings...	搜索字符串...
+For Scalars...	搜索标量...
+For Instruction Patterns...	搜索指令模式...
+For Direct References...	搜索直接引用...
+For Address Tables...	搜索地址表...
+Memory...	内存...
+Program Text...	程序文本...
+Select All	全选
+Clear Selection	清除选择
+Program Differences...	程序差异...
+Decompiler	反编译器
+Decompile	反编译
+Function Tags	函数标签
+Function Signature	函数签名
+Edit Function Signature	编辑函数签名
+Rename Variable	重命名变量
+Retype Variable	重设变量类型
+Highlight Def-use	高亮定义-使用
+Export to C...	导出为 C...
+Find...	查找...
+Copy as Text	复制为文本
+About Ghidra	关于 Ghidra
+User Agreement	用户协议
+Release Notes	发行说明
+Ghidra Help	Ghidra 帮助
+Ghidra API Help	Ghidra API 帮助
+Contents	目录
+Installation Guide	安装指南
+Tool Options...	工具选项...
+Options...	选项...
+Edit Tool Options	编辑工具选项
+Configure Tool...	配置工具...
+Configure	配置
+Plugins	插件
+Install Extensions...	安装扩展...
+Configure Plugins...	配置插件...
+Extensions...	扩展...
+Script Manager	脚本管理器
+Bundle Manager	包管理器
+Memory Map	内存映射
+Window	窗口
+Python	Python
+Interpreter	解释器
+Jython	Jython
+Display	显示
+Provider	提供者
+Name	名称
+Type	类型
+Address	地址
+Location	位置
+Size	大小
+Length	长度
+Offset	偏移
+Value	值
+Status	状态
+Source	源
+Description	描述
+Data Type	数据类型
+Namespace	命名空间
+Mnemonic	助记符
+Operand	操作数
+Instruction	指令
+Reference	引用
+Referenced	被引用
+Count	计数
+Path	路径
+Filter:	过滤器：
+Filter	过滤器
+Apply	应用
+OK	确定
+Cancel	取消
+Yes	是
+No	否
+Close	关闭
+Dismiss	关闭
+Help	帮助
+Browse...	浏览...
+Select	选择
+Add	添加
+Remove	移除
+Delete	删除
+Edit	编辑
+Reset	重置
+Refresh	刷新
+Search	搜索
+Next	下一个
+Previous	上一个
+Details	详情
+Search Results	搜索结果
+Loading...	正在加载...
+Please wait...	请稍候...
+Working...	正在处理...

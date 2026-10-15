@@ -1,0 +1,490 @@
+Redo editor change	重做编辑器更改
+Redo last undone change made to data type archive	重做对数据类型归档所做的上一次撤销的更改
+Reference	引用
+Reference Code Viewer	引用代码查看器
+Reference Graph Error	引用图错误
+Reference Input Error	引用输入错误
+Reference Removal Confirmation	引用移除确认
+Reference is invalid.	引用无效。
+Referenced address already exists in memory	被引用的地址已存在于内存中
+References	引用
+References To	引用到
+Refresh	刷新
+Refresh Bundles	刷新包
+Refresh Diff Details	刷新差异详情
+Refresh Results	刷新结果
+Refresh Script	刷新脚本
+Refresh Strings	刷新字符串
+Refresh Strings Table	刷新字符串表
+Refresh The Sync Indicators For Archive	刷新归档的同步指示
+Refresh User Profiles	刷新用户配置文件
+Refresh all	全部刷新
+Refresh extension list	刷新扩展列表
+Refresh folders and files	刷新文件夹和文件
+Refresh list of user profiles	刷新用户配置文件列表
+Refresh the contents of the editor from the file on disk	从磁盘文件刷新编辑器内容
+Refresh the view	刷新视图
+Refreshes checksums	刷新校验和
+Refreshing	正在刷新
+Reg Ex	正则表达式
+Register Context Error	寄存器上下文错误
+Register tracking follows selected thread (and contents	寄存器跟踪跟随所选线程（及内容
+Registers	寄存器
+Regroup Vertices	重新分组顶点
+Regular Expression Syntax Error	正则表达式语法错误
+Reject	拒绝
+Reject Matches	拒绝匹配
+Relative TypeDef Failed	相对 TypeDef 失败
+Relayout Graph	重新布局图
+Relevant Actions (	相关操作（
+Reload Enum Editor?	重新加载枚举编辑器？
+Reload Sleigh Language Failed	重新加载 Sleigh 语言失败
+Reload Source File Table	重新加载源文件表
+Relocation Fixup	重定位修复
+Relocation Table Model	重定位表模型
+Remove	移除
+Remove 	移除
+Remove All Fields	移除所有字段
+Remove All Fields?	移除所有字段？
+Remove All Secondary Highlights	移除所有次要高亮
+Remove Archive From Program	从程序移除归档
+Remove Bundles	移除包
+Remove Convert/Equate	移除转换/等值
+Remove Equate	移除等值
+Remove Extension?	移除扩展？
+Remove Failure	移除失败
+Remove Field	移除字段
+Remove From Group	从组中移除
+Remove Function	移除函数
+Remove Highlight	移除高亮
+Remove Interpreter	移除解释器
+Remove Interpreter?	移除解释器？
+Remove Invalid Archive	移除无效归档
+Remove Items	移除项目
+Remove Label	移除标签
+Remove Label?	移除标签？
+Remove Match	移除匹配
+Remove Match Tag	移除匹配标签
+Remove Match Tag?	移除匹配标签？
+Remove Matches	移除匹配
+Remove Override?	移除覆盖？
+Remove Recent	移除最近项
+Remove Row	移除行
+Remove Secondary Highlight	移除次要高亮
+Remove Signature Override	移除签名覆盖
+Remove Stack Depth Change	移除栈深度变化
+Remove Tag	移除标签
+Remove Transform	移除变换
+Remove decompiler highlights	移除反编译器高亮
+Remove folder/fragment from View	从视图中移除文件夹/片段
+Remove from View	从视图中移除
+Remove interpreter from tool	从工具中移除解释器
+Remove selected bundle(s)	移除所选包
+Remove the selected rows from the table	从表中移除所选行
+Remove vs Change Symbol Error	移除与更改符号错误
+Removes the archive from program and tool	从程序和工具中移除归档
+Rename	重命名
+Rename 	重命名
+Rename BitField	重命名位域
+Rename Current Snapshot	重命名当前快照
+Rename Data Field	重命名数据字段
+Rename Equate	重命名等值
+Rename Equate Failed!	重命名等值失败！
+Rename Failed	重命名失败
+Rename Field	重命名字段
+Rename Fragment from Code Browser	从代码浏览器重命名片段
+Rename Fragment from Program Tree View	从程序树视图重命名片段
+Rename Function	重命名函数
+Rename Function Symbol Error	重命名函数符号错误
+Rename Function Variable	重命名函数变量
+Rename Global	重命名全局变量
+Rename Label	重命名标签
+Rename Not Allowed	不允许重命名
+Rename Overlay Error	重命名覆盖层错误
+Rename Overlay Space	重命名覆盖空间
+Rename Results	重命名结果
+Rename Symbol	重命名符号
+Rename Symbol Error	重命名符号错误
+Rename Tab	重命名标签页
+Rename Tool	重命名工具
+Rename Tree View	重命名树视图
+Rename Variable	重命名变量
+Rename Workspace	重命名工作区
+Rename a fragment in the program tree viewer with the selected label within the fragment.	使用片段内所选的标签在程序树查看器中重命名片段。
+Rename folder/fragment	重命名文件夹/片段
+Rename is not allowed for this data type	此数据类型不允许重命名
+Render non-ASCII Unicode	渲染非 ASCII Unicode
+Repeat Memory Search Backwards	向后重复内存搜索
+Repeat Memory Search Forwards	向前重复内存搜索
+Repeat Search &Backwards	向后重复搜索(&B)
+Repeat Search &Forwards	向前重复搜索(&F)
+Repeat Text Search	重复文本搜索
+Repeat the last stepping action	重复上一次单步操作
+Repeatable Comment	可重复注释
+Replace	替换
+Replace '	替换 '
+Replace Failed	替换失败
+Replace failed.  Existing type 	替换失败。已存在类型
+Replace the selected composite with its components	用其组件替换所选复合类型
+Report Bug	报告错误
+Reposition Program?	重新定位程序？
+Repository	存储库
+Rerun the last run script	重新运行上次运行的脚本
+Reserved	保留
+Reset	重置
+Reset All Formats	重置所有格式
+Reset All Formats?	重置所有格式？
+Reset Font	重置字体
+Reset Font Size	重置字号
+Reset Format	重置格式
+Reset Format?	重置格式？
+Reset Graph	重置图
+Reset Graph?	重置图？
+Reset Interpreter	重置解释器
+Reset Mark-up	重置标记
+Reset Markup Items	重置标记项
+Reset Path	重置路径
+Reset Sub Tools	重置子工具
+Reset Vertex Location	重置顶点位置
+Reset View	重置视图
+Reset Zoom	重置缩放
+Reset the interpreter	重置解释器
+Resets source and destination program tools back to default configurations.	将源程序和目标程序的工具重置为默认配置。
+Resolve 	解决
+Resolve Symbol Error	解决符号错误
+Restart Ghidra	重启 Ghidra
+Restore Archive Error	恢复归档错误
+Restore Archive Failed	恢复归档失败
+Restore Archived Project	恢复已归档的项目
+Restore Defaults?	恢复默认值？
+Restore Location	恢复位置
+Restore Project Archive	恢复项目归档
+Restore Search Selection	恢复搜索选择
+Restore Theme Values	恢复主题值
+Restore Theme Values?	恢复主题值？
+Restore Value	恢复值
+Restore a Ghidra Project - Archive	恢复 Ghidra 项目 - 归档
+Restore a Ghidra Project - Directory	恢复 Ghidra 项目 - 目录
+Restore vertex and siblings back to group form	将顶点及其同级恢复为分组形式
+Restoring Project: 	正在恢复项目：
+Results Truncated	结果已截断
+Resume	继续
+Resume Emulator	继续模拟器
+Resume the target	继续目标
+Resume, i.e., go or continue execution of the integrated emulator	继续（即运行或继续执行）集成模拟器
+Resume, i.e., go or continue execution of, the target	继续（即运行或继续执行）目标
+Retry Map Missing Program	重试映射缺失的程序
+Retry mapping the missing program by finding its module	通过查找其模块重试映射缺失的程序
+Retype Failed	重设类型失败
+Retype Field	重设字段类型
+Retype Global	重设全局变量类型
+Retype Return	重设返回值类型
+Retype Variable	重设变量类型
+Reuse Graph	重用图
+Revert Changes	还原更改
+Revert Data Type	还原数据类型
+Revert Data Type Changes	还原数据类型更改
+Revert Failed	还原失败
+Revert Thunk Function	还原 Thunk 函数
+Reverts view from fullscreen to graph	将视图从全屏还原为图
+Reverts view from graph to fullscreen	将视图从图还原为全屏
+Run Editor's Script	运行编辑器的脚本
+Run Script	运行脚本
+Run Tool	运行工具
+Runtime Information	运行时信息
+Rust String Analyzer	Rust 字符串分析器
+S&ave As...	另存为(&A)...
+Sample Graph	示例图
+Sample Search Results	示例搜索结果
+Sample Table Model	示例表模型
+Sample Table Options	示例表选项
+Sample Tree Creation	示例树创建
+Sarif	Sarif
+Save	保存
+Save 	保存
+Save All	全部保存
+Save All Files	保存所有文件
+Save All...	全部保存...
+Save Archive	保存归档
+Save Archive As...	归档另存为...
+Save Archive Failed	保存归档失败
+Save Archive?	保存归档？
+Save As	另存为
+Save As (	另存为 (
+Save As...	另存为...
+Save Changed Files?	保存已更改的文件？
+Save Changes to Another Profile?	将更改保存到另一个配置文件？
+Save Changes to Profile?	将更改保存到配置文件？
+Save Changes?	保存更改？
+Save Configuration	保存配置
+Save Current Diff Apply Settings As The Default.	将当前差异应用设置保存为默认值。
+Save Data	保存数据
+Save File	保存文件
+Save File As	文件另存为
+Save Filter	保存过滤器
+Save Image	保存图像
+Save Image File As	图像文件另存为
+Save Image New Format	以新格式保存图像
+Save Image Original Bytes	保存图像原始字节
+Save Modified Files	保存已修改的文件
+Save New Tool	保存新工具
+Save New Tool As	新工具另存为
+Save Profile	保存配置文件
+Save Profile As	配置文件另存为
+Save Program	保存程序
+Save Program As	程序另存为
+Save Program?	保存程序？
+Save Project	保存项目
+Save Script	保存脚本
+Save Script As	脚本另存为
+Save Session	保存会话
+Save Table Data	保存表数据
+Save Theme Changes?	保存主题更改？
+Save Tool	保存工具
+Save Tool As	工具另存为
+Save Tool As...	工具另存为...
+Save Tool Changes?	保存工具更改？
+Save Tool to Tool Chest	将工具保存到工具箱
+Save Traces By Default	默认保存跟踪
+Save Version Tracking Changes	保存版本跟踪更改
+Save Version Tracking Changes?	保存版本跟踪更改？
+Save profile	保存配置文件
+Save profile to new name	将配置文件另存为新名称
+Save the selected trace	保存所选跟踪
+Save tool to new name in tool chest	将工具以新名称保存到工具箱
+Save tool to tool chest	将工具保存到工具箱
+Saving File: 	正在保存文件：
+Scalar Operand Display	标量操作数显示
+Scalar Operand References	标量操作数引用
+Scalar overflow	标量溢出
+Scalars	标量
+Schedule	计划
+Score	得分
+Script Error	脚本错误
+Script File Error	脚本文件错误
+Script Path Added/Enabled	脚本路径已添加/启用
+Script Quick Launch	脚本快速启动
+ScriptInfo lookup	ScriptInfo 查找
+Scroll Lock	滚动锁定
+Scroll To Selection	滚动到所选内容
+Search	搜索
+Search And Replace	搜索并替换
+Search And Replace...	搜索并替换...
+Search Decompiled Text	搜索反编译文本
+Search Failed!	搜索失败！
+Search For Address Tables	搜索地址表
+Search For Direct References	搜索直接引用
+Search For Strings	搜索字符串
+Search Function	搜索函数
+Search Function(s)	搜索函数
+Search Function(s)...	搜索函数...
+Search Function...	搜索函数...
+Search Functions...	搜索函数...
+Search Info	搜索信息
+Search Limit Exceeded!	超出搜索限制！
+Search Next	搜索下一个
+Search Previous	搜索上一个
+Search Program Text	搜索程序文本
+Search Selected Functions	搜索所选函数
+Search Selected Functions...	搜索所选函数...
+Search Stuff	搜索内容
+Search Text	搜索文本
+Search for Scalars	搜索标量
+Search program for scalars	在程序中搜索标量
+Search program text for string	在程序文本中搜索字符串
+Searching Program Text	正在搜索程序文本
+Searching Symbols...	正在搜索符号...
+Secondary Highlight	次要高亮
+Seek this listing to an arbitrary expression	将此列表定位到任意表达式
+Segmented X86 Calling Conventions	分段 X86 调用约定
+Select	选择
+Select 	选择
+Select Action	选择操作
+Select Active Fid Databases	选择活动的 Fid 数据库
+Select Addresses	选择地址
+Select All	全选
+Select All Code Units	选择所有代码单元
+Select All Differences	选择所有差异
+Select All Flows From	选择所有来自的流
+Select All Flows To	选择所有到达的流
+Select Bookmark Locations	选择书签位置
+Select Bundle(s)	选择包
+Select Bytes	选择字节
+Select Call Destination	选择调用目标
+Select Call Source	选择调用源
+Select Certificate (req'd for PKI authentication only)	选择证书（仅 PKI 认证需要）
+Select Children	选择子项
+Select Color	选择颜色
+Select Columns	选择列
+Select Complement	选择补集
+Select Dead Subroutine	选择死子例程
+Select Destination	选择目标
+Select Destinations	选择目标
+Select Directory Containing XML Files	选择包含 XML 文件的目录
+Select Eclipse Project Directory	选择 Eclipse 项目目录
+Select Edge	选择边
+Select Exising Match	选择现有匹配
+Select Existing Match	选择现有匹配
+Select Export Directory	选择导出目录
+Select Export File	选择导出文件
+Select Extension	选择扩展
+Select File For Export: 	选择要导出的文件：
+Select Font	选择字体
+Select Forward Scoped Flow	选择向前限定范围的流
+Select Function	选择函数
+Select Functions	选择函数
+Select Home Vertex	选择起始顶点
+Select JAR Output Directory	选择 JAR 输出目录
+Select Limited Flows From	选择受限的来自流
+Select Limited Flows To	选择受限的到达流
+Select Match in VT Matches Table	在 VT 匹配表中选择匹配
+Select New Language	选择新语言
+Select None	全部不选
+Select Old Language	选择旧语言
+Select Output File	选择输出文件
+Select PDB	选择 PDB
+Select Pattern File	选择模式文件
+Select Program Changes	选择程序更改
+Select Project Location	选择项目位置
+Select Range	选择范围
+Select Reads	选择读取
+Select Real 	选择真实
+Select Real File	选择真实文件
+Select Real File or Folder	选择真实文件或文件夹
+Select Register Value Ranges	选择寄存器值范围
+Select Registers	选择寄存器
+Select Reverse Scoped Flow	选择反向限定范围的流
+Select Rows	选择行
+Select Same Match In Version Tracking Matches Table	在版本跟踪匹配表中选择相同匹配
+Select Source	选择源
+Select Subroutine	选择子例程
+Select Symbol Storage Dir	选择符号存储目录
+Select Time	选择时间
+Select Trace Output File	选择跟踪输出文件
+Select Vertex	选择顶点
+Select Where To Export File	选择文件导出位置
+Select Word Model File	选择词模型文件
+Select a Ghidra Project Directory	选择 Ghidra 项目目录
+Select a Source-Sink Query Results SARIF File	选择源-汇查询结果 SARIF 文件
+Select addresses contained in modules or sections	选择模块或节中包含的地址
+Select addresses contained in regions	选择区域中包含的地址
+Select every memory range read evaluating this watch	选择计算此监视时读取的每个内存范围
+Select reference destinations	选择引用目标
+Select registers to display/modify	选择要显示/修改的寄存器
+Selected Functions	所选函数
+Selected Functions For Bsim Search	用于 BSim 搜索的所选函数
+Selected Instructions	所选指令
+Selected Instructions (with comments)	所选指令（含注释）
+Selected Ranges in 	所选范围：
+Selected indicates to use only the data type name when filtering.	选中表示过滤时仅使用数据类型名称。
+Selected instructions (no spaces)	所选指令（无空格）
+Selection Navigation Action	选择导航操作
+Selection Too Big	选择过大
+Selection Too Large	选择过大
+Send Merged to Clipboard	将合并结果发送到剪贴板
+Send Selected Sequences to Clipboard	将所选序列发送到剪贴板
+Send Selected to Clipboard	将所选内容发送到剪贴板
+Send an interrupt through this Interpreter	通过此解释器发送中断
+Sends the Merge Patterns to the Clipboard	将合并的模式发送到剪贴板
+Sends the currently selected sequences to the clipboard	将当前所选序列发送到剪贴板
+Server Error	服务器错误
+Service Missing	缺少服务
+Set 	设置
+Set All To Ignore	全部设为忽略
+Set All To Merge	全部设为合并
+Set All To Replace	全部设为替换
+Set Architecture...	设置架构...
+Set Archive Architecture	设置归档架构
+Set Breakpoint	设置断点
+Set Color	设置颜色
+Set Comment	设置注释
+Set Comment(s) at Address 	设置地址处的注释：
+Set Comments	设置注释
+Set Condition (Emulator)	设置条件（模拟器）
+Set Data Type Filter	设置数据类型过滤器
+Set Equate	设置等值
+Set Equate...	设置等值...
+Set External Name Association	设置外部名称关联
+Set External Program	设置外部程序
+Set Fallthrough	设置直通
+Set Fallthrough Address	设置直通地址
+Set Favorite Data Type	设置常用数据类型
+Set Filter	设置过滤器
+Set Flow Override	设置流覆盖
+Set Graph Vertex Color	设置图顶点颜色
+Set Highlight	设置高亮
+Set Highlight From Selection	从所选内容设置高亮
+Set Highlight...	设置高亮...
+Set Image Base	设置映像基址
+Set Injection (Emulator)	设置注入（模拟器）
+Set Key Binding for 	设置快捷键：
+Set KeyBinding	设置快捷键
+Set KeyStore Failed	设置密钥库失败
+Set Label at 	设置标签于
+Set Language	设置语言
+Set Language Completed	设置语言完成
+Set Language Error	设置语言错误
+Set Language Failed	设置语言失败
+Set Language...	设置语言...
+Set Language: 	设置语言：
+Set Length Filter	设置长度过滤器
+Set Match Tag	设置匹配标签
+Set Memory Reference	设置内存引用
+Set Name Failed	设置名称失败
+Set Operand Label	设置操作数标签
+Set Original Vertex	设置原始顶点
+Set PKI Certificate	设置 PKI 证书
+Set Pinned	设置固定
+Set Program Architecture Failed	设置程序架构失败
+Set Register Values	设置寄存器值
+Set Register Values...	设置寄存器值...
+Set Secondary Highlight	设置次要高亮
+Set Secondary Highlight With Color	使用颜色设置次要高亮
+Set Selection From Highlight	从高亮设置选择
+Set Stack Depth Change	设置栈深度变化
+Set Symbol Storage Location	设置符号存储位置
+Set Taint	设置污点
+Set Text	设置文本
+Set Thunked Function	设置被 Thunk 的函数
+Set Time Radix	设置时间进制
+Set Tool Associations	设置工具关联
+Set Vertex Color	设置顶点颜色
+Set Vertex as Original Source	将顶点设为原始源
+Set View	设置视图
+Set a Sleigh condition for this emulated breakpoint	为此模拟断点设置 Sleigh 条件
+Set a Sleigh injection for this emulated breakpoint	为此模拟断点设置 Sleigh 注入
+Set base for delta	设置增量基准
+Set bookmark options	设置书签选项
+Set default cell size to the smallest	将默认单元格大小设为最小
+Set length	设置长度
+Set program-architecture associated with a data type archive	设置与数据类型归档关联的程序架构
+Set register values in a program.	设置程序中的寄存器值。
+Set taint for given varnode	为给定 varnode 设置污点
+Set this block's background color	设置此块的背景色
+Set, enable, or disable a breakpoint	设置、启用或禁用断点
+Setting Language: 	正在设置语言：
+Settings	设置
+Severe Error Condition	严重错误
+Shared Return Analysis	共享返回分析
+Shared Return Calls	共享返回调用
+Shift Alignment Offset Left	左移对齐偏移
+Shift Alignment Offset Right	右移对齐偏移
+Shift Bytes Left	字节左移
+Shift Bytes Right	字节右移
+Show 	显示
+Show Action Chooser Dialog	显示操作选择器对话框
+Show All	显示全部
+Show All History	显示全部历史
+Show Attributes Table	显示属性表
+Show Base Data Type	显示基础数据类型
+Show Byte Offsets in Hexadecimal	以十六进制显示字节偏移
+Show Call Trees For Function	显示函数的调用树
+Show Comment History	显示注释历史
+Show Default Values	显示默认值
+Show Defined Strings	显示已定义字符串
+Show Diff Apply Settings...	显示差异应用设置...
+Show Elements Table	显示元素表
+Show Enum	显示枚举
+Show Enum Values in Hex	以十六进制显示枚举值
+Show Events	显示事件
+Show Executables Table	显示可执行文件表
